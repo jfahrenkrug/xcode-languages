@@ -1,0 +1,2362 @@
+[
+  {
+    "name": "Afrikaans (Namibia)",
+    "symbol": "af-NA"
+  },
+  {
+    "name": "Afrikaans (South Africa)",
+    "symbol": "af-ZA"
+  },
+  {
+    "name": "Aghem",
+    "symbol": "agq"
+  },
+  {
+    "name": "Aghem (Cameroon)",
+    "symbol": "agq-CM"
+  },
+  {
+    "name": "Akan (Ghana)",
+    "symbol": "ak-GH"
+  },
+  {
+    "name": "Albanian",
+    "symbol": "sq"
+  },
+  {
+    "name": "Albanian (Albania)",
+    "symbol": "sq-AL"
+  },
+  {
+    "name": "Albanian (Kosovo)",
+    "symbol": "sq-XK"
+  },
+  {
+    "name": "Albanian (Macedonia)",
+    "symbol": "sq-MK"
+  },
+  {
+    "name": "Amharic (Ethiopia)",
+    "symbol": "am-ET"
+  },
+  {
+    "name": "Arabic (Algeria)",
+    "symbol": "ar-DZ"
+  },
+  {
+    "name": "Arabic (Bahrain)",
+    "symbol": "ar-BH"
+  },
+  {
+    "name": "Arabic (Chad)",
+    "symbol": "ar-TD"
+  },
+  {
+    "name": "Arabic (Comoros)",
+    "symbol": "ar-KM"
+  },
+  {
+    "name": "Arabic (Djibouti)",
+    "symbol": "ar-DJ"
+  },
+  {
+    "name": "Arabic (Egypt)",
+    "symbol": "ar-EG"
+  },
+  {
+    "name": "Arabic (Eritrea)",
+    "symbol": "ar-ER"
+  },
+  {
+    "name": "Arabic (Iraq)",
+    "symbol": "ar-IQ"
+  },
+  {
+    "name": "Arabic (Israel)",
+    "symbol": "ar-IL"
+  },
+  {
+    "name": "Arabic (Jordan)",
+    "symbol": "ar-JO"
+  },
+  {
+    "name": "Arabic (Kuwait)",
+    "symbol": "ar-KW"
+  },
+  {
+    "name": "Arabic (Lebanon)",
+    "symbol": "ar-LB"
+  },
+  {
+    "name": "Arabic (Libya)",
+    "symbol": "ar-LY"
+  },
+  {
+    "name": "Arabic (Mauritania)",
+    "symbol": "ar-MR"
+  },
+  {
+    "name": "Arabic (Morocco)",
+    "symbol": "ar-MA"
+  },
+  {
+    "name": "Arabic (Oman)",
+    "symbol": "ar-OM"
+  },
+  {
+    "name": "Arabic (Palestinian Territories)",
+    "symbol": "ar-PS"
+  },
+  {
+    "name": "Arabic (Qatar)",
+    "symbol": "ar-QA"
+  },
+  {
+    "name": "Arabic (Saudi Arabia)",
+    "symbol": "ar-SA"
+  },
+  {
+    "name": "Arabic (Somalia)",
+    "symbol": "ar-SO"
+  },
+  {
+    "name": "Arabic (South Sudan)",
+    "symbol": "ar-SS"
+  },
+  {
+    "name": "Arabic (Sudan)",
+    "symbol": "ar-SD"
+  },
+  {
+    "name": "Arabic (Syria)",
+    "symbol": "ar-SY"
+  },
+  {
+    "name": "Arabic (Tunisia)",
+    "symbol": "ar-TN"
+  },
+  {
+    "name": "Arabic (United Arab Emirates)",
+    "symbol": "ar-AE"
+  },
+  {
+    "name": "Arabic (Western Sahara)",
+    "symbol": "ar-EH"
+  },
+  {
+    "name": "Arabic (WOrld)",
+    "symbol": "ar-001"
+  },
+  {
+    "name": "Arabic (Yemen)",
+    "symbol": "ar-YE"
+  },
+  {
+    "name": "Armenian (Armenia)",
+    "symbol": "hy-AM"
+  },
+  {
+    "name": "Assamese (India)",
+    "symbol": "as-IN"
+  },
+  {
+    "name": "Asu",
+    "symbol": "asa"
+  },
+  {
+    "name": "Asu (Tanzania)",
+    "symbol": "asa-TZ"
+  },
+  {
+    "name": "Azerbaijani (Azerbaijan)",
+    "symbol": "az-AZ"
+  },
+  {
+    "name": "Azerbaijani (Cyrillic, Azerbaijan)",
+    "symbol": "az-Cyrl-AZ"
+  },
+  {
+    "name": "Baﬁa",
+    "symbol": "ksf"
+  },
+  {
+    "name": "Baﬁa (Cameroon)",
+    "symbol": "ksf-CM"
+  },
+  {
+    "name": "Bambara",
+    "symbol": "bm"
+  },
+  {
+    "name": "Bambara (Mali)",
+    "symbol": "brn-ML"
+  },
+  {
+    "name": "Basaa",
+    "symbol": "bas"
+  },
+  {
+    "name": "Basaa (Cameroon)",
+    "symbol": "bas-CM"
+  },
+  {
+    "name": "Basque (Spain)",
+    "symbol": "eu-ES"
+  },
+  {
+    "name": "Belarusian",
+    "symbol": "be"
+  },
+  {
+    "name": "Belarusian (Belarus)",
+    "symbol": "be-BY"
+  },
+  {
+    "name": "Bemba (Zambia)",
+    "symbol": "bem-ZM"
+  },
+  {
+    "name": "Bena",
+    "symbol": "bez"
+  },
+  {
+    "name": "Bena (Tanzania)",
+    "symbol": "bez-TZ"
+  },
+  {
+    "name": "Bengali (Bangladesh)",
+    "symbol": "bn-BD"
+  },
+  {
+    "name": "Bengali (India)",
+    "symbol": "bn-IN"
+  },
+  {
+    "name": "Bodo",
+    "symbol": "brx"
+  },
+  {
+    "name": "Bodo (India)",
+    "symbol": "brx-IN"
+  },
+  {
+    "name": "Bosnian",
+    "symbol": "bs"
+  },
+  {
+    "name": "Bosnian (Bosnia and Herzegovina)",
+    "symbol": "bs-BA"
+  },
+  {
+    "name": "Bosnian (Cyrillic)",
+    "symbol": "bs-Cyrl"
+  },
+  {
+    "name": "Bosnian (Cyrillic, Bosnia and Herzegovina)",
+    "symbol": "bs-Cyrl-BA"
+  },
+  {
+    "name": "Breton",
+    "symbol": "br"
+  },
+  {
+    "name": "Breton (France)",
+    "symbol": "br-FR"
+  },
+  {
+    "name": "Bulgarian (Bulgaria)",
+    "symbol": "bg-BG"
+  },
+  {
+    "name": "Burmese (Myanmar [Burma])",
+    "symbol": "my-MM"
+  },
+  {
+    "name": "Catalan (Andorra)",
+    "symbol": "ca-AD"
+  },
+  {
+    "name": "Catalan (France)",
+    "symbol": "ca-FR"
+  },
+  {
+    "name": "Catalan (Italy)",
+    "symbol": "ca-IT"
+  },
+  {
+    "name": "Catalan (Spain)",
+    "symbol": "ca-ES"
+  },
+  {
+    "name": "Central Atlas Tamazight",
+    "symbol": "tzm"
+  },
+  {
+    "name": "Central Atlas Tamazight (Morocco)",
+    "symbol": "tzm-MA"
+  },
+  {
+    "name": "Cherokee",
+    "symbol": "chr"
+  },
+  {
+    "name": "Cherokee (United States)",
+    "symbol": "chr-US"
+  },
+  {
+    "name": "Chiga",
+    "symbol": "cgg"
+  },
+  {
+    "name": "Chiga (Uganda)",
+    "symbol": "cgg-UG"
+  },
+  {
+    "name": "Chinese",
+    "symbol": "zh"
+  },
+  {
+    "name": "Chinese (Simpliﬁed, China)",
+    "symbol": "zh-Hans-CN"
+  },
+  {
+    "name": "Chinese (Simpliﬁed, Hong Kong SAR China)",
+    "symbol": "zh-Hans-HK"
+  },
+  {
+    "name": "Chinese (Simpliﬁed, Macau SAR China)",
+    "symbol": "zh-Hans-MO"
+  },
+  {
+    "name": "Chinese (Simpliﬁed, Singapore)",
+    "symbol": "zh-Hans-SG"
+  },
+  {
+    "name": "Chinese (Traditional. Hong Kong SAR China)",
+    "symbol": "zh-Hant-HK"
+  },
+  {
+    "name": "Chinese (Traditional. Macau SAR China)",
+    "symbol": "zh-Hant-MO"
+  },
+  {
+    "name": "Chinese (Traditional. Taiwan)",
+    "symbol": "zh-Hant-TW"
+  },
+  {
+    "name": "Congo Swahili",
+    "symbol": "swc"
+  },
+  {
+    "name": "Congo Swahili (Congo - Kinshasa)",
+    "symbol": "swc-CD"
+  },
+  {
+    "name": "Cornish",
+    "symbol": "kw"
+  },
+  {
+    "name": "Cornish (United Kingdom)",
+    "symbol": "kw-GB"
+  },
+  {
+    "name": "Croatian (Bosnia and Herzegovina)",
+    "symbol": "hr-BA"
+  },
+  {
+    "name": "Croatian (Croatia)",
+    "symbol": "hr-HR"
+  },
+  {
+    "name": "Czech (Czech Republic)",
+    "symbol": "cs-CZ"
+  },
+  {
+    "name": "Danish (Denmark)",
+    "symbol": "da-DK"
+  },
+  {
+    "name": "Danish (Greenland)",
+    "symbol": "da-GL"
+  },
+  {
+    "name": "Duala",
+    "symbol": "dua"
+  },
+  {
+    "name": "Duala (Cameroon)",
+    "symbol": "dua-CM"
+  },
+  {
+    "name": "Dutch (Aruba)",
+    "symbol": "nl-AW"
+  },
+  {
+    "name": "Dutch (Belgium)",
+    "symbol": "nl-BE"
+  },
+  {
+    "name": "Dutch (Caribbean Netherlands)",
+    "symbol": "nl-BQ"
+  },
+  {
+    "name": "Dutch (Curacao)",
+    "symbol": "nl-CW"
+  },
+  {
+    "name": "Dutch (Netherlands)",
+    "symbol": "nl-NL"
+  },
+  {
+    "name": "Dutch (Sint Maarten)",
+    "symbol": "nl-SX"
+  },
+  {
+    "name": "Dutch (Suriname)",
+    "symbol": "nl-SR"
+  },
+  {
+    "name": "Dzongkha",
+    "symbol": "dz"
+  },
+  {
+    "name": "Dzongkha (Bhutan)",
+    "symbol": "dz-BT"
+  },
+  {
+    "name": "Embu",
+    "symbol": "ebu"
+  },
+  {
+    "name": "Embu (Kenya)",
+    "symbol": "ebu-KE"
+  },
+  {
+    "name": "English (Albania)",
+    "symbol": "en-AL"
+  },
+  {
+    "name": "English (American Samoa)",
+    "symbol": "en-AS"
+  },
+  {
+    "name": "English (Andorra)",
+    "symbol": "en-AD"
+  },
+  {
+    "name": "English (Anguilla)",
+    "symbol": "en-AI"
+  },
+  {
+    "name": "English (Antigua and Barbuda)",
+    "symbol": "en-AG"
+  },
+  {
+    "name": "English (Australia)",
+    "symbol": "en-AU"
+  },
+  {
+    "name": "English (Austria)",
+    "symbol": "en-AT"
+  },
+  {
+    "name": "English (Bahamas)",
+    "symbol": "en-BS"
+  },
+  {
+    "name": "English (Barbados)",
+    "symbol": "en-BB"
+  },
+  {
+    "name": "English (Belgium)",
+    "symbol": "en-BE"
+  },
+  {
+    "name": "English (Belize)",
+    "symbol": "en-BZ"
+  },
+  {
+    "name": "English (Bermuda)",
+    "symbol": "en-BM"
+  },
+  {
+    "name": "English (Bosnia and Herzegovina)",
+    "symbol": "en-BA"
+  },
+  {
+    "name": "English (Botswana)",
+    "symbol": "en-BW"
+  },
+  {
+    "name": "English (British Indian Ocean Territory)",
+    "symbol": "en-IO"
+  },
+  {
+    "name": "English (British Virgin Islands)",
+    "symbol": "en-VG"
+  },
+  {
+    "name": "English (Cameroon)",
+    "symbol": "en-CM"
+  },
+  {
+    "name": "English (Canada)",
+    "symbol": "en-CA"
+  },
+  {
+    "name": "English (Cayman Islands)",
+    "symbol": "en-KY"
+  },
+  {
+    "name": "English (Christmas Island)",
+    "symbol": "en-CX"
+  },
+  {
+    "name": "English (Cocos [Keeling] Islands)",
+    "symbol": "en-CC"
+  },
+  {
+    "name": "English (Cook Islands)",
+    "symbol": "en-CK"
+  },
+  {
+    "name": "English (Croatia)",
+    "symbol": "en-HR"
+  },
+  {
+    "name": "English (Cyprus)",
+    "symbol": "en-CY"
+  },
+  {
+    "name": "English (Czech Republic)",
+    "symbol": "en-CZ"
+  },
+  {
+    "name": "English (Denmark)",
+    "symbol": "en-DK"
+  },
+  {
+    "name": "English (Diego Garcia)",
+    "symbol": "en-DG"
+  },
+  {
+    "name": "English (Dominica)",
+    "symbol": "en-DM"
+  },
+  {
+    "name": "English (Eritrea)",
+    "symbol": "en-ER"
+  },
+  {
+    "name": "English (Estonia)",
+    "symbol": "en-EE"
+  },
+  {
+    "name": "English (Europe)",
+    "symbol": "en-150"
+  },
+  {
+    "name": "English (Falkland Islands)",
+    "symbol": "en-FK"
+  },
+  {
+    "name": "English (Fiji)",
+    "symbol": "en-FJ"
+  },
+  {
+    "name": "English (Finland)",
+    "symbol": "en-FI"
+  },
+  {
+    "name": "English (France)",
+    "symbol": "en-FR"
+  },
+  {
+    "name": "English (Gambia)",
+    "symbol": "en-GM"
+  },
+  {
+    "name": "English (Germany)",
+    "symbol": "en-DE"
+  },
+  {
+    "name": "English (Ghana)",
+    "symbol": "en-GH"
+  },
+  {
+    "name": "English (Gibraltar)",
+    "symbol": "en-GI"
+  },
+  {
+    "name": "English (Grenada)",
+    "symbol": "en-GD"
+  },
+  {
+    "name": "English (Guam)",
+    "symbol": "en-GU"
+  },
+  {
+    "name": "English (Guernsey)",
+    "symbol": "en-GG"
+  },
+  {
+    "name": "English (Guyana)",
+    "symbol": "en-GY"
+  },
+  {
+    "name": "English (I-long Kong SAR China)",
+    "symbol": "en-HK"
+  },
+  {
+    "name": "English (Hungary)",
+    "symbol": "en-HU"
+  },
+  {
+    "name": "English (Iceland)",
+    "symbol": "en-IS"
+  },
+  {
+    "name": "English (India)",
+    "symbol": "en-IN"
+  },
+  {
+    "name": "English (Ireland)",
+    "symbol": "en-IE"
+  },
+  {
+    "name": "English (Isle of Man)",
+    "symbol": "en-IM"
+  },
+  {
+    "name": "English (Italy)",
+    "symbol": "en-IT"
+  },
+  {
+    "name": "English (Jamaica)",
+    "symbol": "en-JM"
+  },
+  {
+    "name": "English (Jersey)",
+    "symbol": "en-JE"
+  },
+  {
+    "name": "English (Kenya)",
+    "symbol": "en-KE"
+  },
+  {
+    "name": "English (Kiribati)",
+    "symbol": "en-KI"
+  },
+  {
+    "name": "English (Latvia)",
+    "symbol": "en-LV"
+  },
+  {
+    "name": "English (Lesotho)",
+    "symbol": "en-LS"
+  },
+  {
+    "name": "English (Liberia)",
+    "symbol": "en-LR"
+  },
+  {
+    "name": "English (Lithuania)",
+    "symbol": "en-LT"
+  },
+  {
+    "name": "English (Luxembourg)",
+    "symbol": "en-LU"
+  },
+  {
+    "name": "English (Macau SAR China)",
+    "symbol": "en-MO"
+  },
+  {
+    "name": "English (Madagascar)",
+    "symbol": "en-MG"
+  },
+  {
+    "name": "English (Liberia)",
+    "symbol": "en-LR"
+  },
+  {
+    "name": "English (Lithuania)",
+    "symbol": "en-LT"
+  },
+  {
+    "name": "English (Luxembourg)",
+    "symbol": "en-LU"
+  },
+  {
+    "name": "English (Macau SAR China)",
+    "symbol": "en-MO"
+  },
+  {
+    "name": "English (Madagascar)",
+    "symbol": "en-MG"
+  },
+  {
+    "name": "English (Malawi)",
+    "symbol": "en-MW"
+  },
+  {
+    "name": "English (Malta)",
+    "symbol": "en-MT"
+  },
+  {
+    "name": "English (Marshall Islands)",
+    "symbol": "en-MH"
+  },
+  {
+    "name": "English (Mauritius)",
+    "symbol": "en-MU"
+  },
+  {
+    "name": "English (Micronesia)",
+    "symbol": "en-FM"
+  },
+  {
+    "name": "English (Montenegro)",
+    "symbol": "en-ME"
+  },
+  {
+    "name": "English (Montserrat)",
+    "symbol": "en-MS"
+  },
+  {
+    "name": "English (Namibia)",
+    "symbol": "en-NA"
+  },
+  {
+    "name": "English (Nauru)",
+    "symbol": "en-NR"
+  },
+  {
+    "name": "English (Netherlands)",
+    "symbol": "en-NL"
+  },
+  {
+    "name": "English (New Zealand)",
+    "symbol": "en-NZ"
+  },
+  {
+    "name": "English (Nigeria)",
+    "symbol": "en-NG"
+  },
+  {
+    "name": "English (Niue)",
+    "symbol": "en-NU"
+  },
+  {
+    "name": "English (Norfolk Island)",
+    "symbol": "en-NF"
+  },
+  {
+    "name": "English (Northern Mariana Islands)",
+    "symbol": "en-MP"
+  },
+  {
+    "name": "English (Norway)",
+    "symbol": "en-NO"
+  },
+  {
+    "name": "English (Pakistan)",
+    "symbol": "en-PK"
+  },
+  {
+    "name": "English (Palau)",
+    "symbol": "en-PW"
+  },
+  {
+    "name": "English (Papua New Guinea)",
+    "symbol": "en-PG"
+  },
+  {
+    "name": "English (Philippines)",
+    "symbol": "en-PH"
+  },
+  {
+    "name": "English (Pitcairn Islands)",
+    "symbol": "en-PN"
+  },
+  {
+    "name": "English (Poland)",
+    "symbol": "en-PL"
+  },
+  {
+    "name": "English (Portugal)",
+    "symbol": "en-PT"
+  },
+  {
+    "name": "English (Puerto Rico)",
+    "symbol": "en-PR"
+  },
+  {
+    "name": "English (Romania)",
+    "symbol": "en-RO"
+  },
+  {
+    "name": "English (Russia)",
+    "symbol": "en-RU"
+  },
+  {
+    "name": "English (Rwanda)",
+    "symbol": "en-RW"
+  },
+  {
+    "name": "English (Saint Helena)",
+    "symbol": "en-SH"
+  },
+  {
+    "name": "English (Saint Kitts and Nevis)",
+    "symbol": "en-KN"
+  },
+  {
+    "name": "English (Saint Lucia)",
+    "symbol": "en-LC"
+  },
+  {
+    "name": "English (Samoa)",
+    "symbol": "en-WS"
+  },
+  {
+    "name": "English (Seychelles)",
+    "symbol": "en-SC"
+  },
+  {
+    "name": "English (Sierra Leone)",
+    "symbol": "en-SL"
+  },
+  {
+    "name": "English (Singapore)",
+    "symbol": "en-SG"
+  },
+  {
+    "name": "English (Sint Maarten)",
+    "symbol": "en-SX"
+  },
+  {
+    "name": "English (Slovakia)",
+    "symbol": "en-SK"
+  },
+  {
+    "name": "English (Slovenia)",
+    "symbol": "en-SI"
+  },
+  {
+    "name": "English (Solomon Islands)",
+    "symbol": "en-SB"
+  },
+  {
+    "name": "English (South Africa)",
+    "symbol": "en-ZA"
+  },
+  {
+    "name": "English (South Sudan)",
+    "symbol": "en-SS"
+  },
+  {
+    "name": "English (Spain)",
+    "symbol": "en-ES"
+  },
+  {
+    "name": "English (St. Vincent & Grenadines)",
+    "symbol": "en-VC"
+  },
+  {
+    "name": "English (Sudan)",
+    "symbol": "en-SD"
+  },
+  {
+    "name": "English (Swaziland)",
+    "symbol": "en-SZ"
+  },
+  {
+    "name": "English (Sweden)",
+    "symbol": "en-SE"
+  },
+  {
+    "name": "English (Switzerland)",
+    "symbol": "en-CH"
+  },
+  {
+    "name": "English (Tanzania)",
+    "symbol": "en-TZ"
+  },
+  {
+    "name": "English (Tokelau)",
+    "symbol": "en-TK"
+  },
+  {
+    "name": "English (Tonga)",
+    "symbol": "en-TO"
+  },
+  {
+    "name": "English (Trinidad and Tobago)",
+    "symbol": "en-TT"
+  },
+  {
+    "name": "English (Turkey)",
+    "symbol": "en-TR"
+  },
+  {
+    "name": "English (Turks and Caicos Islands)",
+    "symbol": "en-TC"
+  },
+  {
+    "name": "English (Tuvalu)",
+    "symbol": "en-TV"
+  },
+  {
+    "name": "English (US. Outlying Islands)",
+    "symbol": "en-UM"
+  },
+  {
+    "name": "English (US. Virgin Islands)",
+    "symbol": "en-VI"
+  },
+  {
+    "name": "English (Uganda)",
+    "symbol": "en-UG"
+  },
+  {
+    "name": "English (United Kingdom)",
+    "symbol": "en-GB"
+  },
+  {
+    "name": "English (United States)",
+    "symbol": "en-US"
+  },
+  {
+    "name": "English (United States, Computer)",
+    "symbol": "en-US-POSIX"
+  },
+  {
+    "name": "English (Vanuatu)",
+    "symbol": "en-VU"
+  },
+  {
+    "name": "English (World)",
+    "symbol": "en-001"
+  },
+  {
+    "name": "English (Zambia)",
+    "symbol": "en-ZM"
+  },
+  {
+    "name": "English (Zimbabwe)",
+    "symbol": "en-ZW"
+  },
+  {
+    "name": "Esperanto",
+    "symbol": "eo"
+  },
+  {
+    "name": "Estonian (Estonia)",
+    "symbol": "et-EE"
+  },
+  {
+    "name": "Ewe (Ghana)",
+    "symbol": "ee-GH"
+  },
+  {
+    "name": "Ewe (Togo)",
+    "symbol": "ee—TG"
+  },
+  {
+    "name": "Ewondo",
+    "symbol": "ewo"
+  },
+  {
+    "name": "Ewondo (Cameroon)",
+    "symbol": "ewo-CM"
+  },
+  {
+    "name": "Faroese",
+    "symbol": "fo"
+  },
+  {
+    "name": "Faroese (Faroe Islands)",
+    "symbol": "fo-FO"
+  },
+  {
+    "name": "Filipino (Philippines)",
+    "symbol": "fil-PH"
+  },
+  {
+    "name": "Finnish (Finland)",
+    "symbol": "fi-FI"
+  },
+  {
+    "name": "French (Algeria)",
+    "symbol": "fr-DZ"
+  },
+  {
+    "name": "French (Belgium)",
+    "symbol": "fr-BE"
+  },
+  {
+    "name": "French (Benin)",
+    "symbol": "fr-BJ"
+  },
+  {
+    "name": "French (Burkina Faso)",
+    "symbol": "fr-BF"
+  },
+  {
+    "name": "French (Burundi)",
+    "symbol": "fr-BI"
+  },
+  {
+    "name": "French (Cameroon)",
+    "symbol": "fr-CM"
+  },
+  {
+    "name": "French (Canada)",
+    "symbol": "fr-CA"
+  },
+  {
+    "name": "French (Central African Republic)",
+    "symbol": "fr-CF"
+  },
+  {
+    "name": "French (Chad)",
+    "symbol": "fr-TD"
+  },
+  {
+    "name": "French (Comoros)",
+    "symbol": "fr-KM"
+  },
+  {
+    "name": "French (Congo - Brazzaville)",
+    "symbol": "fr-CG"
+  },
+  {
+    "name": "French (Congo - Kinshasa)",
+    "symbol": "fr-CD"
+  },
+  {
+    "name": "French (Côte d'Ivoire)",
+    "symbol": "fr-CI"
+  },
+  {
+    "name": "French (Djibouti",
+    "symbol": "fr-DJ"
+  },
+  {
+    "name": "French (Equatorial Guinea)",
+    "symbol": "fr-GQ"
+  },
+  {
+    "name": "French (France)",
+    "symbol": "fr-FR"
+  },
+  {
+    "name": "French (French Guiana)",
+    "symbol": "fr-GF"
+  },
+  {
+    "name": "French (French Polynesia)",
+    "symbol": "fr-PF"
+  },
+  {
+    "name": "French (Gabon)",
+    "symbol": "fr-GA"
+  },
+  {
+    "name": "French (Guadeloupe)",
+    "symbol": "fr-GP"
+  },
+  {
+    "name": "French (Guinea)",
+    "symbol": "fr-GN"
+  },
+  {
+    "name": "French (Haiti)",
+    "symbol": "fr-HT"
+  },
+  {
+    "name": "French (Luxembourg)",
+    "symbol": "fr-LU"
+  },
+  {
+    "name": "French (Madagascar)",
+    "symbol": "fr-MG"
+  },
+  {
+    "name": "French (Mam",
+    "symbol": "fr-ML"
+  },
+  {
+    "name": "French (Martinique)",
+    "symbol": "fr-MO"
+  },
+  {
+    "name": "French (Mauritania)",
+    "symbol": "fr-MR"
+  },
+  {
+    "name": "French (Mauritius)",
+    "symbol": "fr-MU"
+  },
+  {
+    "name": "French (Mayotte)",
+    "symbol": "fr-YT"
+  },
+  {
+    "name": "French (Monaco)",
+    "symbol": "fr-MC"
+  },
+  {
+    "name": "French (Morocco)",
+    "symbol": "fr-MA"
+  },
+  {
+    "name": "French (New Caledonia)",
+    "symbol": "fr-NC"
+  },
+  {
+    "name": "French (Niger)",
+    "symbol": "fr-NE"
+  },
+  {
+    "name": "French (Réunion)",
+    "symbol": "fr-RE"
+  },
+  {
+    "name": "French (Rwanda)",
+    "symbol": "fr-RW"
+  },
+  {
+    "name": "French (Saint Barthélemy)",
+    "symbol": "fr-BL"
+  },
+  {
+    "name": "French (Saint Martin)",
+    "symbol": "fr-MF"
+  },
+  {
+    "name": "French (Saint Pierre and Miquelon)",
+    "symbol": "fr-PM"
+  },
+  {
+    "name": "French (Senegal)",
+    "symbol": "fr-SN"
+  },
+  {
+    "name": "French (Seychelles)",
+    "symbol": "fr-SC"
+  },
+  {
+    "name": "French (Switzerland)",
+    "symbol": "fr-CH"
+  },
+  {
+    "name": "French (Syria)",
+    "symbol": "fr-SY"
+  },
+  {
+    "name": "French (Togo)",
+    "symbol": "fr-TG"
+  },
+  {
+    "name": "French (Tunisia)",
+    "symbol": "fr-TN"
+  },
+  {
+    "name": "French (Vanuatu)",
+    "symbol": "fr-VU"
+  },
+  {
+    "name": "French (Wallis and Futuna)",
+    "symbol": "fr-WF"
+  },
+  {
+    "name": "Fulah",
+    "symbol": "ff"
+  },
+  {
+    "name": "Fulah (Senegal)",
+    "symbol": "ff-SN"
+  },
+  {
+    "name": "Galician",
+    "symbol": "gl"
+  },
+  {
+    "name": "Galician (Spain)",
+    "symbol": "gl-ES"
+  },
+  {
+    "name": "Ganda (Uganda)",
+    "symbol": "lg-UG"
+  },
+  {
+    "name": "Georgian (Georgia)",
+    "symbol": "ka-GE"
+  },
+  {
+    "name": "German (Austria)",
+    "symbol": "de-AT"
+  },
+  {
+    "name": "German (Belgium)",
+    "symbol": "de-BE"
+  },
+  {
+    "name": "German (Germany)",
+    "symbol": "de-DE"
+  },
+  {
+    "name": "German (Liechtenstein)",
+    "symbol": "de—LI"
+  },
+  {
+    "name": "German (Luxembourg)",
+    "symbol": "de-LU"
+  },
+  {
+    "name": "German (Switzerland)",
+    "symbol": "de-CH"
+  },
+  {
+    "name": "Gujarati (India)",
+    "symbol": "gu-IN"
+  },
+  {
+    "name": "Gusii",
+    "symbol": "guz"
+  },
+  {
+    "name": "Gusii (Kenya)",
+    "symbol": "guz-KE"
+  },
+  {
+    "name": "Hausa",
+    "symbol": "ha"
+  },
+  {
+    "name": "Hausa (Ghana)",
+    "symbol": "ha-GH"
+  },
+  {
+    "name": "Hausa (Niger)",
+    "symbol": "ha-NE"
+  },
+  {
+    "name": "Hausa (Nigeria)",
+    "symbol": "ha-NG"
+  },
+  {
+    "name": "Hawaiian",
+    "symbol": "haw"
+  },
+  {
+    "name": "Hawaiian (United States)",
+    "symbol": "haw-US"
+  },
+  {
+    "name": "Hebrew (Israel)",
+    "symbol": "he-IL"
+  },
+  {
+    "name": "Hindi (India)",
+    "symbol": "hi-IN"
+  },
+  {
+    "name": "Hungarian (Hungary)",
+    "symbol": "hu-HU"
+  },
+  {
+    "name": "Icelandic (Iceland)",
+    "symbol": "is-IS"
+  },
+  {
+    "name": "Igbo",
+    "symbol": "ig"
+  },
+  {
+    "name": "Igbo (Nigeria)",
+    "symbol": "ig-NG"
+  },
+  {
+    "name": "Indonesian (Indonesia)",
+    "symbol": "id-ID"
+  },
+  {
+    "name": "Inuktitut",
+    "symbol": "iu"
+  },
+  {
+    "name": "Inuktitut (Uniﬁed Canadian Aboriginal Syllabics)",
+    "symbol": "iu-Cans"
+  },
+  {
+    "name": "Inuktitut (Uniﬁed Canadian Aboriginal Syllabics, Canada)",
+    "symbol": "iu-Cans-CA"
+  },
+  {
+    "name": "Irish (Ireland)",
+    "symbol": "ga-IE"
+  },
+  {
+    "name": "Italian (Italy)",
+    "symbol": "it-IT"
+  },
+  {
+    "name": "Italian (San Marino)",
+    "symbol": "it-SM"
+  },
+  {
+    "name": "Italian (Switzerland)",
+    "symbol": "it-CH"
+  },
+  {
+    "name": "Japanese (Japan)",
+    "symbol": "ja-JP"
+  },
+  {
+    "name": "Jola-Fonyi",
+    "symbol": "dyo"
+  },
+  {
+    "name": "Jola-Fonyi (Senegal)",
+    "symbol": "dyo-SN"
+  },
+  {
+    "name": "Kabuverdianu",
+    "symbol": "kea"
+  },
+  {
+    "name": "Kabuverdianu (Cape Verde)",
+    "symbol": "kea-CV"
+  },
+  {
+    "name": "Kaber",
+    "symbol": "kab"
+  },
+  {
+    "name": "Kaber (Algeria)",
+    "symbol": "kab-DZ"
+  },
+  {
+    "name": "Kako",
+    "symbol": "kkj"
+  },
+  {
+    "name": "Kako (Cameroon)",
+    "symbol": "kkj-CM"
+  },
+  {
+    "name": "Kalaallisut",
+    "symbol": "kl"
+  },
+  {
+    "name": "Kalaallisut (Greenland)",
+    "symbol": "kl-GL"
+  },
+  {
+    "name": "Kalenjin",
+    "symbol": "kln"
+  },
+  {
+    "name": "Kalenjin (Kenya)",
+    "symbol": "kln-KE"
+  },
+  {
+    "name": "Kamba",
+    "symbol": "kam"
+  },
+  {
+    "name": "Kamba (Kenya)",
+    "symbol": "kam-KE"
+  },
+  {
+    "name": "Kannada (India)",
+    "symbol": "kn-IN"
+  },
+  {
+    "name": "Kashmiri",
+    "symbol": "ks"
+  },
+  {
+    "name": "Kashmiri (Arabic)",
+    "symbol": "ks-Arab"
+  },
+  {
+    "name": "Kashmiri (Arabic, India)",
+    "symbol": "ks-Arab-IN"
+  },
+  {
+    "name": "Kazakh (Kazakhstan)",
+    "symbol": "kk-KZ"
+  },
+  {
+    "name": "Khmer (Cambodia)",
+    "symbol": "km-KH"
+  },
+  {
+    "name": "Kikuyu (Kenya)",
+    "symbol": "ki-KE"
+  },
+  {
+    "name": "Kinyarwanda (Rwanda)",
+    "symbol": "rw-RW"
+  },
+  {
+    "name": "Konkani",
+    "symbol": "kok"
+  },
+  {
+    "name": "Konkani (India)",
+    "symbol": "kok-IN"
+  },
+  {
+    "name": "Korean (North Korea)",
+    "symbol": "ko-KP"
+  },
+  {
+    "name": "Korean (South Korea)",
+    "symbol": "ko-KR"
+  },
+  {
+    "name": "Koyra Chiini",
+    "symbol": "khq"
+  },
+  {
+    "name": "Koyra Chiini (Mali)",
+    "symbol": "khq-ML"
+  },
+  {
+    "name": "Koyraboro Senni",
+    "symbol": "ses"
+  },
+  {
+    "name": "Koyraboro Senni (Mali)",
+    "symbol": "ses-ML"
+  },
+  {
+    "name": "Kwasio",
+    "symbol": "nmg"
+  },
+  {
+    "name": "Kwasio (Cameroon)",
+    "symbol": "nmg-CM"
+  },
+  {
+    "name": "Kyrgyz (Kyrgyzstan)",
+    "symbol": "ky-KG"
+  },
+  {
+    "name": "Lakota",
+    "symbol": "lkt"
+  },
+  {
+    "name": "Lakota (United States)",
+    "symbol": "lkt-US"
+  },
+  {
+    "name": "Langi",
+    "symbol": "lag"
+  },
+  {
+    "name": "Langi (Tanzania)",
+    "symbol": "lag-TZ"
+  },
+  {
+    "name": "Lao",
+    "symbol": "lo"
+  },
+  {
+    "name": "Lao (Laos)",
+    "symbol": "lo-LA"
+  },
+  {
+    "name": "Latvian (Latvia)",
+    "symbol": "lv-LV"
+  },
+  {
+    "name": "Lingala (Angola)",
+    "symbol": "ln-AO"
+  },
+  {
+    "name": "Lingala (Central African Republic)",
+    "symbol": "ln-CF"
+  },
+  {
+    "name": "Lingala (Congo - Brazzaville)",
+    "symbol": "ln-CG"
+  },
+  {
+    "name": "Lingala (Congo - Kinshasa)",
+    "symbol": "ln-CD"
+  },
+  {
+    "name": "Lithuanian (Lithuania)",
+    "symbol": "lt-LT"
+  },
+  {
+    "name": "Luba-Katanga",
+    "symbol": "lu"
+  },
+  {
+    "name": "Luba-Katanga (Congo - Kinshasa)",
+    "symbol": "lu-CD"
+  },
+  {
+    "name": "Luo",
+    "symbol": "luo"
+  },
+  {
+    "name": "Luo (Kenya)",
+    "symbol": "luo-KE"
+  },
+  {
+    "name": "Luyia",
+    "symbol": "luy"
+  },
+  {
+    "name": "Luyia (Kenya)",
+    "symbol": "luy-KE"
+  },
+  {
+    "name": "Macedonian (Macedonia)",
+    "symbol": "mk-MK"
+  },
+  {
+    "name": "Machame",
+    "symbol": "jmc"
+  },
+  {
+    "name": "Machame (Tanzania)",
+    "symbol": "jmc-TZ"
+  },
+  {
+    "name": "Makhuwa-Meetto",
+    "symbol": "mgh"
+  },
+  {
+    "name": "Makhuwa-Meetto (Mozambique)",
+    "symbol": "mgh-MZ"
+  },
+  {
+    "name": "Makonde",
+    "symbol": "kde"
+  },
+  {
+    "name": "Makonde (Tanzania)",
+    "symbol": "kde-TZ"
+  },
+  {
+    "name": "Malagasy (Madagascar)",
+    "symbol": "mg-MG"
+  },
+  {
+    "name": "Malay (Arabic)",
+    "symbol": "ms-Arab"
+  },
+  {
+    "name": "Malay (Arabic. Brunei)",
+    "symbol": "ms-Arab-BN"
+  },
+  {
+    "name": "Malay (Arabic. Malaysia)",
+    "symbol": "ms-Arab-MY"
+  },
+  {
+    "name": "Malay (Brunei)",
+    "symbol": "ms-BN"
+  },
+  {
+    "name": "Malay (Malaysia)",
+    "symbol": "ms-MY"
+  },
+  {
+    "name": "Malay (Singapore)",
+    "symbol": "ms-SG"
+  },
+  {
+    "name": "Malayalam (India)",
+    "symbol": "ml-IN"
+  },
+  {
+    "name": "Maltese (Malta)",
+    "symbol": "mt-MT"
+  },
+  {
+    "name": "Manx",
+    "symbol": "gv"
+  },
+  {
+    "name": "Manx (Isle of Man)",
+    "symbol": "gv-IM"
+  },
+  {
+    "name": "Marathi (India)",
+    "symbol": "mr-IN"
+  },
+  {
+    "name": "Masai",
+    "symbol": "mas"
+  },
+  {
+    "name": "Masai (Kenya)",
+    "symbol": "mas-KE"
+  },
+  {
+    "name": "Masai (Tanzania)",
+    "symbol": "mas-TZ"
+  },
+  {
+    "name": "Meru",
+    "symbol": "mer"
+  },
+  {
+    "name": "Meru (Kenya)",
+    "symbol": "mer—KE"
+  },
+  {
+    "name": "Meta'",
+    "symbol": "mgo"
+  },
+  {
+    "name": "Meta' (Cameroon)",
+    "symbol": "mgo-CM"
+  },
+  {
+    "name": "Mongolian",
+    "symbol": "mn"
+  },
+  {
+    "name": "Mongolian (Mongolia)",
+    "symbol": "mn-MN"
+  },
+  {
+    "name": "Morisyen",
+    "symbol": "mfe"
+  },
+  {
+    "name": "Morisyen (Mauritius)",
+    "symbol": "mfe-MU"
+  },
+  {
+    "name": "Mundang",
+    "symbol": "mua"
+  },
+  {
+    "name": "Mundang (Cameroon)",
+    "symbol": "mua-CM"
+  },
+  {
+    "name": "Nama",
+    "symbol": "naq"
+  },
+  {
+    "name": "Nama (Namibia)",
+    "symbol": "naq-NA"
+  },
+  {
+    "name": "Nepali (India)",
+    "symbol": "ne-IN"
+  },
+  {
+    "name": "Nepali (Nepal)",
+    "symbol": "ne-NP"
+  },
+  {
+    "name": "Ngiemboon",
+    "symbol": "nnh"
+  },
+  {
+    "name": "Ngiemboon (Cameroon)",
+    "symbol": "nnh-CM"
+  },
+  {
+    "name": "Ngomba",
+    "symbol": "jgo"
+  },
+  {
+    "name": "Ngomba (Cameroon)",
+    "symbol": "jgo-CM"
+  },
+  {
+    "name": "North Ndebele",
+    "symbol": "nd"
+  },
+  {
+    "name": "North Ndebele (Zimbabwe)",
+    "symbol": "nd-ZW"
+  },
+  {
+    "name": "Norwegian Bokmål (Norway)",
+    "symbol": "nb-NO"
+  },
+  {
+    "name": "Norwegian Bokmål (Svalbard and Jan Mayen)",
+    "symbol": "nb-SJ"
+  },
+  {
+    "name": "Norwegian Nynorsk",
+    "symbol": "nn"
+  },
+  {
+    "name": "Norwegian Nynorsk (Norway)",
+    "symbol": "nn-NO"
+  },
+  {
+    "name": "Nuer",
+    "symbol": "nus"
+  },
+  {
+    "name": "Nuer (Sudan)",
+    "symbol": "nus-SD"
+  },
+  {
+    "name": "Nyankole",
+    "symbol": "nyn"
+  },
+  {
+    "name": "Nyankole (Uganda)",
+    "symbol": "nyn-UG"
+  },
+  {
+    "name": "Oriya",
+    "symbol": "or"
+  },
+  {
+    "name": "Oriya (India)",
+    "symbol": "or-IN"
+  },
+  {
+    "name": "Ororno",
+    "symbol": "om"
+  },
+  {
+    "name": "Ororno (Ethiopia)",
+    "symbol": "om-ET"
+  },
+  {
+    "name": "Ororno (Kenya)",
+    "symbol": "om-KE"
+  },
+  {
+    "name": "Pashto",
+    "symbol": "ps"
+  },
+  {
+    "name": "Pashto (Afghanistan)",
+    "symbol": "ps-AF"
+  },
+  {
+    "name": "Persian (Afghanistan)",
+    "symbol": "fa-AF"
+  },
+  {
+    "name": "Persian (Iran)",
+    "symbol": "fa-IR"
+  },
+  {
+    "name": "Polish (Poland)",
+    "symbol": "pl-PL"
+  },
+  {
+    "name": "Portuguese (Angola)",
+    "symbol": "pt-AO"
+  },
+  {
+    "name": "Portuguese (Brazil)",
+    "symbol": "pt-BR"
+  },
+  {
+    "name": "Portuguese (Cape Verde)",
+    "symbol": "pt-CV"
+  },
+  {
+    "name": "Portuguese (Guinea-Bissau)",
+    "symbol": "pt-GW"
+  },
+  {
+    "name": "Portuguese (Macau SAR China)",
+    "symbol": "pt-MO"
+  },
+  {
+    "name": "Portuguese (Mozambique)",
+    "symbol": "pt-MZ"
+  },
+  {
+    "name": "Portuguese (Sāo Tomé and Príncipe)",
+    "symbol": "pt-ST"
+  },
+  {
+    "name": "Portuguese (Timor-Leste)",
+    "symbol": "pt-TL"
+  },
+  {
+    "name": "Punjabi (Arabic)",
+    "symbol": "pa-Arab"
+  },
+  {
+    "name": "Punjabi (Arabic. Pakistan)",
+    "symbol": "pa-Arab-PK"
+  },
+  {
+    "name": "Punjabi (India)",
+    "symbol": "pa-IN"
+  },
+  {
+    "name": "Romanian (Moldova)",
+    "symbol": "ro-MD"
+  },
+  {
+    "name": "Romanian (Romania)",
+    "symbol": "ro-RO"
+  },
+  {
+    "name": "Romansh",
+    "symbol": "rm"
+  },
+  {
+    "name": "Romansh (Switzerland)",
+    "symbol": "rm-CH"
+  },
+  {
+    "name": "Rombo",
+    "symbol": "rof"
+  },
+  {
+    "name": "Rombo (Tanzania)",
+    "symbol": "rof-TZ"
+  },
+  {
+    "name": "Rundi (Burundi",
+    "symbol": "rn-BI"
+  },
+  {
+    "name": "Russian (Belarus)",
+    "symbol": "ru-BY"
+  },
+  {
+    "name": "Russian (Kazakhstan)",
+    "symbol": "ru-KZ"
+  },
+  {
+    "name": "Russian (Kyrgyzstan)",
+    "symbol": "ru-KG"
+  },
+  {
+    "name": "Russian (Moldova)",
+    "symbol": "ru-MD"
+  },
+  {
+    "name": "Russian (Russia)",
+    "symbol": "ru-RU"
+  },
+  {
+    "name": "Russian (Ukraine)",
+    "symbol": "ru-UA"
+  },
+  {
+    "name": "Rwa",
+    "symbol": "rwk"
+  },
+  {
+    "name": "Rwa (Tanzania)",
+    "symbol": "rwk-TZ"
+  },
+  {
+    "name": "Samburu",
+    "symbol": "saq"
+  },
+  {
+    "name": "Samburu (Kenya)",
+    "symbol": "saq-KE"
+  },
+  {
+    "name": "Sango",
+    "symbol": "sg"
+  },
+  {
+    "name": "Sango (Central African Republic)",
+    "symbol": "sg-CF"
+  },
+  {
+    "name": "Sangu",
+    "symbol": "sbp"
+  },
+  {
+    "name": "Sangu (Tanzania)",
+    "symbol": "sbp-TZ"
+  },
+  {
+    "name": "Sena",
+    "symbol": "seh"
+  },
+  {
+    "name": "Sena (Mozambique)",
+    "symbol": "seh-MZ"
+  },
+  {
+    "name": "Serbian (Bosnia and Herzegovina)",
+    "symbol": "sr-BA"
+  },
+  {
+    "name": "Serbian (Kosovo)",
+    "symbol": "sr-XK"
+  },
+  {
+    "name": "Serbian (Latin)",
+    "symbol": "sr-Latn"
+  },
+  {
+    "name": "Serbian (Latin. Bosnia and Herzegovina)",
+    "symbol": "sr-Latn-BA"
+  },
+  {
+    "name": "Serbian (Latin. Kosovo)",
+    "symbol": "sr-Latn-XK"
+  },
+  {
+    "name": "Serbian (Latin. Montenegro)",
+    "symbol": "sr-Latn-ME"
+  },
+  {
+    "name": "Serbian (Latin. Serbia)",
+    "symbol": "sr-Latn-RS"
+  },
+  {
+    "name": "Serbian (Montenegro)",
+    "symbol": "sr-ME"
+  },
+  {
+    "name": "Serbian (Serbia)",
+    "symbol": "sr-RS"
+  },
+  {
+    "name": "Shambala",
+    "symbol": "ksb"
+  },
+  {
+    "name": "Shambala (Tanzania)",
+    "symbol": "ksb-TZ"
+  },
+  {
+    "name": "Shona (Zimbabwe)",
+    "symbol": "sn-ZW"
+  },
+  {
+    "name": "Sichuan Yi",
+    "symbol": "ii"
+  },
+  {
+    "name": "Sichuan Yi (China)",
+    "symbol": "ii-CN"
+  },
+  {
+    "name": "Sinhala (Sri Lanka)",
+    "symbol": "si-LK"
+  },
+  {
+    "name": "Slovak (Slovakia)",
+    "symbol": "sk-SK"
+  },
+  {
+    "name": "Slovenian (Slovenia)",
+    "symbol": "sl-SI"
+  },
+  {
+    "name": "Soga",
+    "symbol": "xog"
+  },
+  {
+    "name": "Soga (Uganda)",
+    "symbol": "xog-UG"
+  },
+  {
+    "name": "Somali (Djibouti)",
+    "symbol": "so-DJ"
+  },
+  {
+    "name": "Somali (Ethiopia)",
+    "symbol": "so-ET"
+  },
+  {
+    "name": "Somali (Kenya)",
+    "symbol": "so-KE"
+  },
+  {
+    "name": "Somali (Somalia)",
+    "symbol": "so-SO"
+  },
+  {
+    "name": "Sorani Kurdish",
+    "symbol": "ckb"
+  },
+  {
+    "name": "Spanish (Argentina)",
+    "symbol": "es-AR"
+  },
+  {
+    "name": "Spanish (Bolivia)",
+    "symbol": "es-BO"
+  },
+  {
+    "name": "Spanish (Canary Islands)",
+    "symbol": "es-IC"
+  },
+  {
+    "name": "Spanish (Ceuta and Melilla)",
+    "symbol": "es-EA"
+  },
+  {
+    "name": "Spanish (Chile)",
+    "symbol": "es-CL"
+  },
+  {
+    "name": "Spanish (Colombia)",
+    "symbol": "es-CO"
+  },
+  {
+    "name": "Spanish (Costa Rica)",
+    "symbol": "es-CR"
+  },
+  {
+    "name": "Spanish (Cuba)",
+    "symbol": "es-CU"
+  },
+  {
+    "name": "Spanish (Dominican Republic)",
+    "symbol": "es-DO"
+  },
+  {
+    "name": "Spanish (Ecuador)",
+    "symbol": "es-EC"
+  },
+  {
+    "name": "Spanish (El Salvador)",
+    "symbol": "es-SV"
+  },
+  {
+    "name": "Spanish (Equatorial Guinea)",
+    "symbol": "es-GQ"
+  },
+  {
+    "name": "Spanish (Guatemala)",
+    "symbol": "es-GT"
+  },
+  {
+    "name": "Spanish (Honduras)",
+    "symbol": "es-HN"
+  },
+  {
+    "name": "Spanish (Latin America)",
+    "symbol": "es-419"
+  },
+  {
+    "name": "Spanish (Nicaragua)",
+    "symbol": "es-NI"
+  },
+  {
+    "name": "Spanish (Panama)",
+    "symbol": "es-PA"
+  },
+  {
+    "name": "Spanish (Paraguay)",
+    "symbol": "es-PY"
+  },
+  {
+    "name": "Spanish (Peru)",
+    "symbol": "es-PE"
+  },
+  {
+    "name": "Spanish (Philippines)",
+    "symbol": "es-PH"
+  },
+  {
+    "name": "Spanish (Puerto Rico)",
+    "symbol": "es-PR"
+  },
+  {
+    "name": "Spanish (Spain)",
+    "symbol": "es-ES"
+  },
+  {
+    "name": "Spanish (United States)",
+    "symbol": "es-US"
+  },
+  {
+    "name": "Spanish (Uruguay)",
+    "symbol": "es-UY"
+  },
+  {
+    "name": "Spanish (Venezuela)",
+    "symbol": "es-VE"
+  },
+  {
+    "name": "Standard Moroccan Tamazight",
+    "symbol": "zgh"
+  },
+  {
+    "name": "Standard Moroccan Tamazight (Morocco)",
+    "symbol": "zgh-MA"
+  },
+  {
+    "name": "Swahili",
+    "symbol": "sw"
+  },
+  {
+    "name": "Swahili (Kenya)",
+    "symbol": "sw-KE"
+  },
+  {
+    "name": "Swahili (Tanzania)",
+    "symbol": "sw-TZ"
+  },
+  {
+    "name": "Swahili (Uganda)",
+    "symbol": "sw-UG"
+  },
+  {
+    "name": "Swedish (Aland Islands)",
+    "symbol": "sv-AX"
+  },
+  {
+    "name": "Swedish (Finland)",
+    "symbol": "sv-FI"
+  },
+  {
+    "name": "Swedish (Sweden)",
+    "symbol": "sv-SE"
+  },
+  {
+    "name": "Swiss German",
+    "symbol": "gsw"
+  },
+  {
+    "name": "Swiss German (Liechtenstein)",
+    "symbol": "gsw-LI"
+  },
+  {
+    "name": "Swiss German (Switzerland)",
+    "symbol": "gsw-CH"
+  },
+  {
+    "name": "Tachelhit",
+    "symbol": "shi"
+  },
+  {
+    "name": "Tachelhit (Morocco)",
+    "symbol": "shi-MA"
+  },
+  {
+    "name": "Tachelhit (Tifinagh)",
+    "symbol": "shi-Tfng"
+  },
+  {
+    "name": "Tachelhit (Tifinagh, Morocco)",
+    "symbol": "shi-Tfng-MA"
+  },
+  {
+    "name": "Taita",
+    "symbol": "dav"
+  },
+  {
+    "name": "Taita (Kenya)",
+    "symbol": "dav-KE"
+  },
+  {
+    "name": "Tajik (Tajikistan)",
+    "symbol": "tg-TJ"
+  },
+  {
+    "name": "Tamil (India)",
+    "symbol": "ta-IN"
+  },
+  {
+    "name": "Tamil (Malaysia)",
+    "symbol": "ta-MY"
+  },
+  {
+    "name": "Tamil (Singapore)",
+    "symbol": "ta-SG"
+  },
+  {
+    "name": "Tamil (Sri Lanka)",
+    "symbol": "ta-LK"
+  },
+  {
+    "name": "Tasawaq",
+    "symbol": "twq"
+  },
+  {
+    "name": "Tasawaq (Niger)",
+    "symbol": "twq-NE"
+  },
+  {
+    "name": "Telugu (India)",
+    "symbol": "te-IN"
+  },
+  {
+    "name": "Teso",
+    "symbol": "teo"
+  },
+  {
+    "name": "Teso (Kenya)",
+    "symbol": "teo-KE"
+  },
+  {
+    "name": "Teso (Uganda)",
+    "symbol": "teo-UG"
+  },
+  {
+    "name": "Thai (Thailand)",
+    "symbol": "th-TH"
+  },
+  {
+    "name": "Tibetan",
+    "symbol": "bo"
+  },
+  {
+    "name": "Tibetan (China)",
+    "symbol": "bo-CN"
+  },
+  {
+    "name": "Tibetan (India)",
+    "symbol": "bo-IN"
+  },
+  {
+    "name": "Tigrinya (Eritrea)",
+    "symbol": "ti-ER"
+  },
+  {
+    "name": "Tigrinya (Ethiopia)",
+    "symbol": "ti-ET"
+  },
+  {
+    "name": "Tongan (Tonga)",
+    "symbol": "to-TO"
+  },
+  {
+    "name": "Turkish (Cyprus)",
+    "symbol": "tr-CY"
+  },
+  {
+    "name": "Turkish (Turkey)",
+    "symbol": "tr-TR"
+  },
+  {
+    "name": "Turkmen",
+    "symbol": "tk"
+  },
+  {
+    "name": "Turkmen (Turkmenistan)",
+    "symbol": "tk-TM"
+  },
+  {
+    "name": "Ukrainian (Ukraine)",
+    "symbol": "uk-UA"
+  },
+  {
+    "name": "Urdu (India)",
+    "symbol": "ur-IN"
+  },
+  {
+    "name": "Urdu (Pakistan)",
+    "symbol": "ur-PK"
+  },
+  {
+    "name": "Uyghur",
+    "symbol": "ug"
+  },
+  {
+    "name": "Uyghur (Arabic)",
+    "symbol": "ug-Arab"
+  },
+  {
+    "name": "Uyghur (Arabic, China)",
+    "symbol": "ug-Arab-CN"
+  },
+  {
+    "name": "Uzbek",
+    "symbol": "uz"
+  },
+  {
+    "name": "Uzbek (Arabic)",
+    "symbol": "uz-Arab"
+  },
+  {
+    "name": "Uzbek (Arabic. Afghanistan)",
+    "symbol": "uz-Arab-AF"
+  },
+  {
+    "name": "Uzbek (Latin)",
+    "symbol": "uz-Latn"
+  },
+  {
+    "name": "Uzbek (Latin. Uzbekistan)",
+    "symbol": "uz-Latn-UZ"
+  },
+  {
+    "name": "Uzbek (Uzbekistan)",
+    "symbol": "uz-UZ"
+  },
+  {
+    "name": "Vai",
+    "symbol": "vai"
+  },
+  {
+    "name": "Vai (Latin)",
+    "symbol": "vai-Latn"
+  },
+  {
+    "name": "Vai (Latin, Liberia)",
+    "symbol": "vai-Latn-LR"
+  },
+  {
+    "name": "Vai (Liberia)",
+    "symbol": "vai-LR"
+  },
+  {
+    "name": "Vietnamese (Vietnam)",
+    "symbol": "vi-VN"
+  },
+  {
+    "name": "Vunjo",
+    "symbol": "vun"
+  },
+  {
+    "name": "Vunjo (Tanzania)",
+    "symbol": "vun-TZ"
+  },
+  {
+    "name": "Welsh (United Kingdom)",
+    "symbol": "cy-GB"
+  },
+  {
+    "name": "Yangben",
+    "symbol": "yav"
+  },
+  {
+    "name": "Yangben (Cameroon)",
+    "symbol": "yav-CM"
+  },
+  {
+    "name": "Yoruba (Benin)",
+    "symbol": "yo-BJ"
+  },
+  {
+    "name": "Yoruba (Nigeria)",
+    "symbol": "yo-NG"
+  },
+  {
+    "name": "Zarma",
+    "symbol": "dje"
+  },
+  {
+    "name": "Zarma (Niger)",
+    "symbol": "dje-NE"
+  },
+  {
+    "name": "Zulu (South Africa)",
+    "symbol": "zu-ZA"
+  }
+]
