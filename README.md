@@ -2,7 +2,7 @@
 
 All the lproj languages that Xcode supports in a machine readable format.
 
-Generated from Xcode Version *7.2.1*.
+Generated from Xcode Version *7.3*.
 
 I was unable to find an authoritative list of the languages that Xcode allows
 you to select from when adding lproj localizations to your iOS app. After trying
