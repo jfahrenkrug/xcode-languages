@@ -184,6 +184,14 @@
     "symbol": "as-IN"
   },
   {
+    "name": "Asturian",
+    "symbol": "ast"
+  },
+  {
+    "name": "Asturian (Spain)",
+    "symbol": "ast-ES"
+  },
+  {
     "name": "Asu",
     "symbol": "asa"
   },
@@ -221,7 +229,7 @@
   },
   {
     "name": "Bambara (Mali)",
-    "symbol": "brn-ML"
+    "symbol": "bm-ML"
   },
   {
     "name": "Basaa",
@@ -288,7 +296,7 @@
     "symbol": "bs"
   },
   {
-    "name": "Bosnian (Bosnia and Herzegovina)",
+    "name": "Bosnian (Bosnia & Herzegovina)",
     "symbol": "bs-BA"
   },
   {
@@ -296,7 +304,7 @@
     "symbol": "bs-Cyrl"
   },
   {
-    "name": "Bosnian (Cyrillic, Bosnia and Herzegovina)",
+    "name": "Bosnian (Cyrillic, Bosnia & Herzegovina)",
     "symbol": "bs-Cyrl-BA"
   },
   {
@@ -326,6 +334,14 @@
   {
     "name": "Catalan",
     "symbol": "ca"
+  },
+  {
+    "name": "Cantonese",
+    "symbol": "yue"
+  },
+  {
+    "name": "Cantonese (Hong Kong [China])",
+    "symbol": "yue-HK"
   },
   {
     "name": "Catalan (Andorra)",
@@ -364,6 +380,14 @@
     "symbol": "ckb-IQ"
   },
   {
+    "name": "Chechen",
+    "symbol": "ce"
+  },
+  {
+    "name": "Chechen (Russia)",
+    "symbol": "ce-RU"
+  },
+  {
     "name": "Cherokee",
     "symbol": "chr"
   },
@@ -384,15 +408,19 @@
     "symbol": "zh"
   },
   {
+    "name": "Chinese (Simplified)",
+    "symbol": "zh-Hans"
+  },
+  {
     "name": "Chinese (Simplified, China)",
     "symbol": "zh-Hans-CN"
   },
   {
-    "name": "Chinese (Simplified, Hong Kong SAR China)",
+    "name": "Chinese (Simplified, Hong Kong [China])",
     "symbol": "zh-Hans-HK"
   },
   {
-    "name": "Chinese (Simplified, Macau SAR China)",
+    "name": "Chinese (Simplified, Macau [China])",
     "symbol": "zh-Hans-MO"
   },
   {
@@ -400,15 +428,19 @@
     "symbol": "zh-Hans-SG"
   },
   {
-    "name": "Chinese (Traditional. Hong Kong SAR China)",
+    "name": "Chinese (Traditional)",
+    "symbol": "zh-Hant"
+  },
+  {
+    "name": "Chinese (Traditional, Hong Kong [China])",
     "symbol": "zh-Hant-HK"
   },
   {
-    "name": "Chinese (Traditional. Macau SAR China)",
+    "name": "Chinese (Traditional, Macau [China])",
     "symbol": "zh-Hant-MO"
   },
   {
-    "name": "Chinese (Traditional. Taiwan)",
+    "name": "Chinese (Traditional, Taiwan)",
     "symbol": "zh-Hant-TW"
   },
   {
@@ -432,7 +464,7 @@
     "symbol": "hr"
   },
   {
-    "name": "Croatian (Bosnia and Herzegovina)",
+    "name": "Croatian (Bosnia & Herzegovina)",
     "symbol": "hr-BA"
   },
   {
@@ -536,7 +568,7 @@
     "symbol": "en-AI"
   },
   {
-    "name": "English (Antigua and Barbuda)",
+    "name": "English (Antigua & Barbuda)",
     "symbol": "en-AG"
   },
   {
@@ -568,12 +600,16 @@
     "symbol": "en-BM"
   },
   {
-    "name": "English (Bosnia and Herzegovina)",
+    "name": "English (Bosnia & Herzegovina)",
     "symbol": "en-BA"
   },
   {
     "name": "English (Botswana)",
     "symbol": "en-BW"
+  },
+  {
+    "name": "English (Brazil)",
+    "symbol": "en-BR"
   },
   {
     "name": "English (British Indian Ocean Territory)",
@@ -582,6 +618,10 @@
   {
     "name": "English (British Virgin Islands)",
     "symbol": "en-VG"
+  },
+  {
+    "name": "English (Burundi)",
+    "symbol": "en-BI"
   },
   {
     "name": "English (Cameroon)",
@@ -594,6 +634,10 @@
   {
     "name": "English (Cayman Islands)",
     "symbol": "en-KY"
+  },
+  {
+    "name": "English (China)",
+    "symbol": "en-CN"
   },
   {
     "name": "English (Christmas Island)",
@@ -696,7 +740,7 @@
     "symbol": "en-GY"
   },
   {
-    "name": "English (Hong Kong SAR China)",
+    "name": "English (Hong Kong [China])",
     "symbol": "en-HK"
   },
   {
@@ -732,6 +776,10 @@
     "symbol": "en-JM"
   },
   {
+    "name": "English (Japan)",
+    "symbol": "en-JP"
+  },
+  {
     "name": "English (Jersey)",
     "symbol": "en-JE"
   },
@@ -764,7 +812,7 @@
     "symbol": "en-LU"
   },
   {
-    "name": "English (Macau SAR China)",
+    "name": "English (Macau [China])",
     "symbol": "en-MO"
   },
   {
@@ -778,6 +826,10 @@
   {
     "name": "English (Malaysia)",
     "symbol": "en-MY"
+  },
+  {
+    "name": "English (Maldives)",
+    "symbol": "en-MV"
   },
   {
     "name": "English (Malta)",
@@ -920,6 +972,10 @@
     "symbol": "en-ZA"
   },
   {
+    "name": "English (South Korea)",
+    "symbol": "en-KR"
+  },
+  {
     "name": "English (South Sudan)",
     "symbol": "en-SS"
   },
@@ -932,7 +988,7 @@
     "symbol": "en-SH"
   },
   {
-    "name": "English (St. Kitts and Nevis)",
+    "name": "English (St. Kitts & Nevis)",
     "symbol": "en-KN"
   },
   {
@@ -958,6 +1014,10 @@
   {
     "name": "English (Switzerland)",
     "symbol": "en-CH"
+  },
+  {
+    "name": "English (Taiwan)",
+    "symbol": "en-TW"
   },
   {
     "name": "English (Tanzania)",
@@ -1049,7 +1109,7 @@
   },
   {
     "name": "Ewe (Togo)",
-    "symbol": "ee—TG"
+    "symbol": "ee-TG"
   },
   {
     "name": "Ewondo",
@@ -1062,6 +1122,10 @@
   {
     "name": "Faroese",
     "symbol": "fo"
+  },
+  {
+    "name": "Faroese (Denmark)",
+    "symbol": "fo-DK"
   },
   {
     "name": "Faroese (Faroe Islands)",
@@ -1140,7 +1204,7 @@
     "symbol": "fr-CI"
   },
   {
-    "name": "French (Djibouti",
+    "name": "French (Djibouti)",
     "symbol": "fr-DJ"
   },
   {
@@ -1324,6 +1388,10 @@
     "symbol": "ka-GE"
   },
   {
+    "name": "German",
+    "symbol": "de"
+  },
+  {
     "name": "German (Austria)",
     "symbol": "de-AT"
   },
@@ -1337,7 +1405,7 @@
   },
   {
     "name": "German (Liechtenstein)",
-    "symbol": "de—LI"
+    "symbol": "de-LI"
   },
   {
     "name": "German (Luxembourg)",
@@ -1460,12 +1528,8 @@
     "symbol": "iu"
   },
   {
-    "name": "Inuktitut (Uniﬁed Canadian Aboriginal Syllabics)",
-    "symbol": "iu-Cans"
-  },
-  {
-    "name": "Inuktitut (Uniﬁed Canadian Aboriginal Syllabics, Canada)",
-    "symbol": "iu-Cans-CA"
+    "name": "Inuktitut (Canada)",
+    "symbol": "iu-CA"
   },
   {
     "name": "Irish",
@@ -1568,12 +1632,8 @@
     "symbol": "ks"
   },
   {
-    "name": "Kashmiri (Arabic)",
-    "symbol": "ks-Arab"
-  },
-  {
-    "name": "Kashmiri (Arabic, India)",
-    "symbol": "ks-Arab-IN"
+    "name": "Kashmiri (India)",
+    "symbol": "ks-IN"
   },
   {
     "name": "Kazakh",
@@ -1697,7 +1757,7 @@
   },
   {
     "name": "Lingala (Angola)",
-    "symbol": "ln-AO"
+    "symbol": "ln-Ao"
   },
   {
     "name": "Lingala (Central African Republic)",
@@ -1872,12 +1932,20 @@
     "symbol": "mas-TZ"
   },
   {
+    "name": "Mazanderani",
+    "symbol": "mzn"
+  },
+  {
+    "name": "Mazanderani (Iran)",
+    "symbol": "mzn-IR"
+  },
+  {
     "name": "Meru",
     "symbol": "mer"
   },
   {
     "name": "Meru (Kenya)",
-    "symbol": "mer—KE"
+    "symbol": "mer-KE"
   },
   {
     "name": "Meta'",
@@ -1912,6 +1980,10 @@
     "symbol": "mua-CM"
   },
   {
+    "name": "Najdi Arabic",
+    "symbol": "ars"
+  },
+  {
     "name": "Nama",
     "symbol": "naq"
   },
@@ -1932,11 +2004,11 @@
     "symbol": "ne-NP"
   },
   {
-    "name": "Ngiemboon",
+    "name": "Ngieman",
     "symbol": "nnh"
   },
   {
-    "name": "Ngiemboon (Cameroon)",
+    "name": "Ngieman (Cameroon)",
     "symbol": "nnh-CM"
   },
   {
@@ -1956,6 +2028,18 @@
     "symbol": "nd-ZW"
   },
   {
+    "name": "Northern Luri",
+    "symbol": "lrc"
+  },
+  {
+    "name": "Northern Luri (Iran)",
+    "symbol": "lrc-IR"
+  },
+  {
+    "name": "Northern Luri (Iraq)",
+    "symbol": "lrc-IQ"
+  },
+  {
     "name": "Northern Sami",
     "symbol": "se"
   },
@@ -1970,6 +2054,10 @@
   {
     "name": "Northern Sami (Sweden)",
     "symbol": "se-SE"
+  },
+  {
+    "name": "Norwegian Bokmål",
+    "symbol": "nb"
   },
   {
     "name": "Norwegian Bokmål (Norway)",
@@ -1992,8 +2080,8 @@
     "symbol": "nus"
   },
   {
-    "name": "Nuer (Sudan)",
-    "symbol": "nus-SD"
+    "name": "Nuer (South Sudan)",
+    "symbol": "nus-SS"
   },
   {
     "name": "Nyankole",
@@ -2012,15 +2100,15 @@
     "symbol": "or-IN"
   },
   {
-    "name": "Ororno",
+    "name": "Oromo",
     "symbol": "om"
   },
   {
-    "name": "Ororno (Ethiopia)",
+    "name": "Oromo (Ethiopia)",
     "symbol": "om-ET"
   },
   {
-    "name": "Ororno (Kenya)",
+    "name": "Oromo (Kenya)",
     "symbol": "om-KE"
   },
   {
@@ -2084,12 +2172,16 @@
     "symbol": "pt-GW"
   },
   {
-    "name": "Portuguese (Macau SAR China)",
+    "name": "Portuguese (Macau [China])",
     "symbol": "pt-MO"
   },
   {
     "name": "Portuguese (Mozambique)",
     "symbol": "pt-MZ"
+  },
+  {
+    "name": "Portuguese (Portugal)",
+    "symbol": "pt-PT"
   },
   {
     "name": "Portuguese (Sāo Tomé & Príncipe)",
@@ -2432,6 +2524,10 @@
     "symbol": "es-419"
   },
   {
+    "name": "Spanish (Mexico)",
+    "symbol": "es-MX"
+  },
+  {
     "name": "Spanish (Nicaragua)",
     "symbol": "es-NI"
   },
@@ -2680,6 +2776,14 @@
     "symbol": "uk-UA"
   },
   {
+    "name": "Upper Sorbian",
+    "symbol": "hsb"
+  },
+  {
+    "name": "Upper Sorbian (Germany)",
+    "symbol": "hsb-DE"
+  },
+  {
     "name": "Urdu",
     "symbol": "ur"
   },
@@ -2696,12 +2800,12 @@
     "symbol": "ug"
   },
   {
-    "name": "Uyghur (Arabic)",
-    "symbol": "ug-Arab"
+    "name": "Uyghur (China)",
+    "symbol": "ug-CN"
   },
   {
-    "name": "Uyghur (Arabic, China)",
-    "symbol": "ug-Arab-CN"
+    "name": "Uzbek",
+    "symbol": "uz"
   },
   {
     "name": "Uzbek",
