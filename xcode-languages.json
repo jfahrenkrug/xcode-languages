@@ -332,16 +332,16 @@
     "symbol": "my-MM"
   },
   {
-    "name": "Catalan",
-    "symbol": "ca"
-  },
-  {
     "name": "Cantonese",
     "symbol": "yue"
   },
   {
     "name": "Cantonese (Hong Kong [China])",
     "symbol": "yue-HK"
+  },
+  {
+    "name": "Catalan",
+    "symbol": "ca"
   },
   {
     "name": "Catalan (Andorra)",
@@ -516,7 +516,7 @@
     "symbol": "nl-BQ"
   },
   {
-    "name": "Dutch (Curacao)",
+    "name": "Dutch (Curaçao)",
     "symbol": "nl-CW"
   },
   {
@@ -1048,11 +1048,11 @@
     "symbol": "en-TV"
   },
   {
-    "name": "English (US. Outlying Islands)",
+    "name": "English (U.S. Outlying Islands)",
     "symbol": "en-UM"
   },
   {
-    "name": "English (US. Virgin Islands)",
+    "name": "English (U.S. Virgin Islands)",
     "symbol": "en-VI"
   },
   {
@@ -1253,7 +1253,7 @@
   },
   {
     "name": "French (Martinique)",
-    "symbol": "fr-MO"
+    "symbol": "fr-MQ"
   },
   {
     "name": "French (Mauritania)",
@@ -1757,7 +1757,7 @@
   },
   {
     "name": "Lingala (Angola)",
-    "symbol": "ln-Ao"
+    "symbol": "ln-AO"
   },
   {
     "name": "Lingala (Central African Republic)",
@@ -2004,11 +2004,11 @@
     "symbol": "ne-NP"
   },
   {
-    "name": "Ngieman",
+    "name": "Ngiemboon",
     "symbol": "nnh"
   },
   {
-    "name": "Ngieman (Cameroon)",
+    "name": "Ngiemboon (Cameroon)",
     "symbol": "nnh-CM"
   },
   {
@@ -2184,7 +2184,7 @@
     "symbol": "pt-PT"
   },
   {
-    "name": "Portuguese (Sāo Tomé & Príncipe)",
+    "name": "Portuguese (São Tomé & Príncipe)",
     "symbol": "pt-ST"
   },
   {
@@ -2466,6 +2466,10 @@
   {
     "name": "Spanish (Argentina)",
     "symbol": "es-AR"
+  },
+  {
+    "name": "Spanish (Belize)",
+    "symbol": "es-BZ"
   },
   {
     "name": "Spanish (Bolivia)",
@@ -2802,10 +2806,6 @@
   {
     "name": "Uyghur (China)",
     "symbol": "ug-CN"
-  },
-  {
-    "name": "Uzbek",
-    "symbol": "uz"
   },
   {
     "name": "Uzbek",
