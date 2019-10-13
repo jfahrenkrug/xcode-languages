@@ -232,6 +232,18 @@
     "symbol": "bm-ML"
   },
   {
+    "name": "Bangla",
+    "symbol": "bn"
+  },
+  {
+    "name": "Bangla (Bangladesh)",
+    "symbol": "bn-BD"
+  },
+  {
+    "name": "Bangla (India)",
+    "symbol": "bn-IN"
+  },
+  {
     "name": "Basaa",
     "symbol": "bas"
   },
@@ -270,18 +282,6 @@
   {
     "name": "Bena (Tanzania)",
     "symbol": "bez-TZ"
-  },
-  {
-    "name": "Bengali",
-    "symbol": "bn"
-  },
-  {
-    "name": "Bengali (Bangladesh)",
-    "symbol": "bn-BD"
-  },
-  {
-    "name": "Bengali (India)",
-    "symbol": "bn-IN"
   },
   {
     "name": "Bodo",
@@ -336,8 +336,20 @@
     "symbol": "yue"
   },
   {
-    "name": "Cantonese (Hong Kong [China])",
-    "symbol": "yue-HK"
+    "name": "Cantonese (Simplified)",
+    "symbol": "yue-Hans"
+  },
+  {
+    "name": "Cantonese (Simplified, China mainland)",
+    "symbol": "yue-Hans-CN"
+  },
+  {
+    "name": "Cantonese (Traditional)",
+    "symbol": "yue-Hant"
+  },
+  {
+    "name": "Cantonese (Traditional, Hong Kong)",
+    "symbol": "yue-Hant-HK"
   },
   {
     "name": "Catalan",
@@ -380,6 +392,18 @@
     "symbol": "ckb-IQ"
   },
   {
+    "name": "Chakma",
+    "symbol": "ccp"
+  },
+  {
+    "name": "Chakma (Bangladesh)",
+    "symbol": "ccp-BD"
+  },
+  {
+    "name": "Chakma (India)",
+    "symbol": "ccp-IN"
+  },
+  {
     "name": "Chechen",
     "symbol": "ce"
   },
@@ -408,19 +432,23 @@
     "symbol": "zh"
   },
   {
+    "name": "Chinese (Hong Kong)",
+    "symbol": "zh-HK"
+  },
+  {
     "name": "Chinese (Simplified)",
     "symbol": "zh-Hans"
   },
   {
-    "name": "Chinese (Simplified, China)",
+    "name": "Chinese (Simplified, China mainland)",
     "symbol": "zh-Hans-CN"
   },
   {
-    "name": "Chinese (Simplified, Hong Kong [China])",
+    "name": "Chinese (Simplified, Hong Kong)",
     "symbol": "zh-Hans-HK"
   },
   {
-    "name": "Chinese (Simplified, Macau [China])",
+    "name": "Chinese (Simplified, Macau)",
     "symbol": "zh-Hans-MO"
   },
   {
@@ -432,11 +460,11 @@
     "symbol": "zh-Hant"
   },
   {
-    "name": "Chinese (Traditional, Hong Kong [China])",
+    "name": "Chinese (Traditional, Hong Kong)",
     "symbol": "zh-Hant-HK"
   },
   {
-    "name": "Chinese (Traditional, Macau [China])",
+    "name": "Chinese (Traditional, Macau)",
     "symbol": "zh-Hant-MO"
   },
   {
@@ -476,7 +504,7 @@
     "symbol": "cs"
   },
   {
-    "name": "Czech (Czech Republic)",
+    "name": "Czech (Czechia)",
     "symbol": "cs-CZ"
   },
   {
@@ -572,6 +600,10 @@
     "symbol": "en-AG"
   },
   {
+    "name": "English (Argentina)",
+    "symbol": "en-AR"
+  },
+  {
     "name": "English (Australia)",
     "symbol": "en-AU"
   },
@@ -582,6 +614,10 @@
   {
     "name": "English (Bahamas)",
     "symbol": "en-BS"
+  },
+  {
+    "name": "English (Bangladesh)",
+    "symbol": "en-BD"
   },
   {
     "name": "English (Barbados)",
@@ -620,6 +656,10 @@
     "symbol": "en-VG"
   },
   {
+    "name": "English (Bulgaria)",
+    "symbol": "en-BG"
+  },
+  {
     "name": "English (Burundi)",
     "symbol": "en-BI"
   },
@@ -636,7 +676,7 @@
     "symbol": "en-KY"
   },
   {
-    "name": "English (China)",
+    "name": "English (China mainland)",
     "symbol": "en-CN"
   },
   {
@@ -660,7 +700,7 @@
     "symbol": "en-CY"
   },
   {
-    "name": "English (Czech Republic)",
+    "name": "English (Czechia)",
     "symbol": "en-CZ"
   },
   {
@@ -740,7 +780,7 @@
     "symbol": "en-GY"
   },
   {
-    "name": "English (Hong Kong [China])",
+    "name": "English (Hong Kong)",
     "symbol": "en-HK"
   },
   {
@@ -754,6 +794,10 @@
   {
     "name": "English (India)",
     "symbol": "en-IN"
+  },
+  {
+    "name": "English (Indonesia)",
+    "symbol": "en-ID"
   },
   {
     "name": "English (Ireland)",
@@ -812,7 +856,7 @@
     "symbol": "en-LU"
   },
   {
-    "name": "English (Macau [China])",
+    "name": "English (Macau)",
     "symbol": "en-MO"
   },
   {
@@ -940,6 +984,10 @@
     "symbol": "en-WS"
   },
   {
+    "name": "English (Saudi Arabia)",
+    "symbol": "en-SA"
+  },
+  {
     "name": "English (Seychelles)",
     "symbol": "en-SC"
   },
@@ -1022,6 +1070,10 @@
   {
     "name": "English (Tanzania)",
     "symbol": "en-TZ"
+  },
+  {
+    "name": "English (Thailand)",
+    "symbol": "en-TH"
   },
   {
     "name": "English (Tokelau)",
@@ -1196,7 +1248,7 @@
     "symbol": "fr-CG"
   },
   {
-    "name": "French (Congo - Kinshasa)",
+    "name": "French (Congo Kinshasa)",
     "symbol": "fr-CD"
   },
   {
@@ -1404,6 +1456,10 @@
     "symbol": "de-DE"
   },
   {
+    "name": "German (Italy)",
+    "symbol": "de-IT"
+  },
+  {
     "name": "German (Liechtenstein)",
     "symbol": "de-LI"
   },
@@ -1554,6 +1610,10 @@
   {
     "name": "Italian (Switzerland)",
     "symbol": "it-CH"
+  },
+  {
+    "name": "Italian (Vatican City)",
+    "symbol": "it-VA"
   },
   {
     "name": "Japanese",
@@ -1780,6 +1840,18 @@
     "symbol": "lt-LT"
   },
   {
+    "name": "Low German",
+    "symbol": "nds"
+  },
+  {
+    "name": "Low German (Germany)",
+    "symbol": "nds-DE"
+  },
+  {
+    "name": "Low German (Netherlands)",
+    "symbol": "nds-NL"
+  },
+  {
     "name": "Lower Sorbian",
     "symbol": "dsb"
   },
@@ -1792,7 +1864,7 @@
     "symbol": "lu"
   },
   {
-    "name": "Luba-Katanga (Congo - Kinshasa)",
+    "name": "Luba-Katanga (Congo Kinshasa)",
     "symbol": "lu-CD"
   },
   {
@@ -1980,10 +2052,6 @@
     "symbol": "mua-CM"
   },
   {
-    "name": "Najdi Arabic",
-    "symbol": "ars"
-  },
-  {
     "name": "Nama",
     "symbol": "naq"
   },
@@ -2092,11 +2160,11 @@
     "symbol": "nyn-UG"
   },
   {
-    "name": "Oriya",
+    "name": "Odia",
     "symbol": "or"
   },
   {
-    "name": "Oriya (India)",
+    "name": "Odia (India)",
     "symbol": "or-IN"
   },
   {
@@ -2168,11 +2236,23 @@
     "symbol": "pt-CV"
   },
   {
+    "name": "Portuguese (Equatorial Guinea)",
+    "symbol": "pt-GQ"
+  },
+  {
+    "name": "Portuguese (France)",
+    "symbol": "pt-FR"
+  },
+  {
     "name": "Portuguese (Guinea-Bissau)",
     "symbol": "pt-GW"
   },
   {
-    "name": "Portuguese (Macau [China])",
+    "name": "Portuguese (Luxembourg)",
+    "symbol": "pt-LU"
+  },
+  {
+    "name": "Portuguese (Macau)",
     "symbol": "pt-MO"
   },
   {
@@ -2186,6 +2266,10 @@
   {
     "name": "Portuguese (São Tomé & Príncipe)",
     "symbol": "pt-ST"
+  },
+  {
+    "name": "Portuguese (Switzerland)",
+    "symbol": "pt-CH"
   },
   {
     "name": "Portuguese (Timor-Leste)",
@@ -2404,7 +2488,7 @@
     "symbol": "ii"
   },
   {
-    "name": "Sichuan Yi (China)",
+    "name": "Sichuan Yi (China mainland)",
     "symbol": "ii-CN"
   },
   {
@@ -2464,20 +2548,64 @@
     "symbol": "es"
   },
   {
+    "name": "Spanish (Anguilla)",
+    "symbol": "es-AI"
+  },
+  {
+    "name": "Spanish (Antigua & Barbuda)",
+    "symbol": "es-AG"
+  },
+  {
     "name": "Spanish (Argentina)",
     "symbol": "es-AR"
+  },
+  {
+    "name": "Spanish (Aruba)",
+    "symbol": "es-AW"
+  },
+  {
+    "name": "Spanish (Bahamas)",
+    "symbol": "es-BS"
+  },
+  {
+    "name": "Spanish (Barbados)",
+    "symbol": "es-BB"
   },
   {
     "name": "Spanish (Belize)",
     "symbol": "es-BZ"
   },
   {
+    "name": "Spanish (Bermuda)",
+    "symbol": "es-BM"
+  },
+  {
     "name": "Spanish (Bolivia)",
     "symbol": "es-BO"
   },
   {
+    "name": "Spanish (Brazil)",
+    "symbol": "es-BR"
+  },
+  {
+    "name": "Spanish (British Virgin Islands)",
+    "symbol": "es-VG"
+  },
+  {
+    "name": "Spanish (Canada)",
+    "symbol": "es-CA"
+  },
+  {
     "name": "Spanish (Canary Islands)",
     "symbol": "es-IC"
+  },
+  {
+    "name": "Spanish (Caribbean Netherlands)",
+    "symbol": "es-BQ"
+  },
+  {
+    "name": "Spanish (Cayman Islands)",
+    "symbol": "es-KY"
   },
   {
     "name": "Spanish (Ceuta & Melilla)",
@@ -2500,6 +2628,14 @@
     "symbol": "es-CU"
   },
   {
+    "name": "Spanish (Curaçao)",
+    "symbol": "es-CW"
+  },
+  {
+    "name": "Spanish (Dominica)",
+    "symbol": "es-DM"
+  },
+  {
     "name": "Spanish (Dominican Republic)",
     "symbol": "es-DO"
   },
@@ -2516,8 +2652,36 @@
     "symbol": "es-GQ"
   },
   {
+    "name": "Spanish (Falkland Islands)",
+    "symbol": "es-FK"
+  },
+  {
+    "name": "Spanish (French Guiana)",
+    "symbol": "es-GF"
+  },
+  {
+    "name": "Spanish (Greenland)",
+    "symbol": "es-GL"
+  },
+  {
+    "name": "Spanish (Grenada)",
+    "symbol": "es-GD"
+  },
+  {
+    "name": "Spanish (Guadeloupe)",
+    "symbol": "es-GP"
+  },
+  {
     "name": "Spanish (Guatemala)",
     "symbol": "es-GT"
+  },
+  {
+    "name": "Spanish (Guyana)",
+    "symbol": "es-GY"
+  },
+  {
+    "name": "Spanish (Haiti)",
+    "symbol": "es-HT"
   },
   {
     "name": "Spanish (Honduras)",
@@ -2528,8 +2692,16 @@
     "symbol": "es-419"
   },
   {
+    "name": "Spanish (Martinique)",
+    "symbol": "es-MQ"
+  },
+  {
     "name": "Spanish (Mexico)",
     "symbol": "es-MX"
+  },
+  {
+    "name": "Spanish (Montserrat)",
+    "symbol": "es-MS"
   },
   {
     "name": "Spanish (Nicaragua)",
@@ -2556,8 +2728,52 @@
     "symbol": "es-PR"
   },
   {
+    "name": "Spanish (Sint Maarten)",
+    "symbol": "es-SX"
+  },
+  {
     "name": "Spanish (Spain)",
     "symbol": "es-ES"
+  },
+  {
+    "name": "Spanish (St. Barthélemy)",
+    "symbol": "es-BL"
+  },
+  {
+    "name": "Spanish (St. Kitts & Nevis)",
+    "symbol": "es-KN"
+  },
+  {
+    "name": "Spanish (St. Lucia)",
+    "symbol": "es-LC"
+  },
+  {
+    "name": "Spanish (St. Martin)",
+    "symbol": "es-MF"
+  },
+  {
+    "name": "Spanish (St. Pierre & Miquelon)",
+    "symbol": "es-PM"
+  },
+  {
+    "name": "Spanish (St. Vincent & Grenadines)",
+    "symbol": "es-VC"
+  },
+  {
+    "name": "Spanish (Suriname)",
+    "symbol": "es-SR"
+  },
+  {
+    "name": "Spanish (Trinidad & Tobago)",
+    "symbol": "es-TT"
+  },
+  {
+    "name": "Spanish (Turks & Caicos Islands)",
+    "symbol": "es-TC"
+  },
+  {
+    "name": "Spanish (U.S. Virgin Islands)",
+    "symbol": "es-VI"
   },
   {
     "name": "Spanish (United States)",
@@ -2692,6 +2908,14 @@
     "symbol": "twq-NE"
   },
   {
+    "name": "Tatar",
+    "symbol": "tt"
+  },
+  {
+    "name": "Tatar (Russia)",
+    "symbol": "tt-RU"
+  },
+  {
     "name": "Telugu",
     "symbol": "te"
   },
@@ -2724,7 +2948,7 @@
     "symbol": "bo"
   },
   {
-    "name": "Tibetan (China)",
+    "name": "Tibetan (China mainland)",
     "symbol": "bo-CN"
   },
   {
@@ -2804,7 +3028,7 @@
     "symbol": "ug"
   },
   {
-    "name": "Uyghur (China)",
+    "name": "Uyghur (China mainland)",
     "symbol": "ug-CN"
   },
   {
@@ -2886,6 +3110,14 @@
   {
     "name": "Western Frisian (Netherlands)",
     "symbol": "fy-NL"
+  },
+  {
+    "name": "Wolof",
+    "symbol": "wo"
+  },
+  {
+    "name": "Wolof (Senegal)",
+    "symbol": "wo-SN"
   },
   {
     "name": "Yangben",
