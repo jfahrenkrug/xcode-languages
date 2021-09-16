@@ -1,5 +1,33 @@
 [
   {
+    "name": "Abkhazian",
+    "symbol": "ab"
+  },
+  {
+    "name": "Achinese",
+    "symbol": "ace"
+  },
+  {
+    "name": "Acoli",
+    "symbol": "ach"
+  },
+  {
+    "name": "Adangme",
+    "symbol": "ada"
+  },
+  {
+    "name": "Adyghe",
+    "symbol": "ady"
+  },
+  {
+    "name": "Afar",
+    "symbol": "aa"
+  },
+  {
+    "name": "Afrihili",
+    "symbol": "afh"
+  },
+  {
     "name": "Afrikaans",
     "symbol": "af"
   },
@@ -20,12 +48,28 @@
     "symbol": "agq-CM"
   },
   {
+    "name": "Ainu",
+    "symbol": "ain"
+  },
+  {
     "name": "Akan",
     "symbol": "ak"
   },
   {
     "name": "Akan (Ghana)",
     "symbol": "ak-GH"
+  },
+  {
+    "name": "Akkadian",
+    "symbol": "akk"
+  },
+  {
+    "name": "Akoose",
+    "symbol": "bss"
+  },
+  {
+    "name": "Alabama",
+    "symbol": "akz"
   },
   {
     "name": "Albanian",
@@ -40,8 +84,20 @@
     "symbol": "sq-XK"
   },
   {
-    "name": "Albanian (Macedonia)",
+    "name": "Albanian (North Macedonia)",
     "symbol": "sq-MK"
+  },
+  {
+    "name": "Aleut",
+    "symbol": "ale"
+  },
+  {
+    "name": "Algerian Arabic",
+    "symbol": "arq"
+  },
+  {
+    "name": "American Sign Language",
+    "symbol": "ase"
   },
   {
     "name": "Amharic",
@@ -50,6 +106,22 @@
   {
     "name": "Amharic (Ethiopia)",
     "symbol": "am-ET"
+  },
+  {
+    "name": "Ancient Egyptian",
+    "symbol": "egy"
+  },
+  {
+    "name": "Ancient Greek",
+    "symbol": "grc"
+  },
+  {
+    "name": "Angika",
+    "symbol": "anp"
+  },
+  {
+    "name": "Ao Naga",
+    "symbol": "njo"
   },
   {
     "name": "Arabic",
@@ -168,12 +240,44 @@
     "symbol": "ar-YE"
   },
   {
+    "name": "Arabic, Najdi",
+    "symbol": "ars"
+  },
+  {
+    "name": "Aragonese",
+    "symbol": "an"
+  },
+  {
+    "name": "Aramaic",
+    "symbol": "arc"
+  },
+  {
+    "name": "Araona",
+    "symbol": "aro"
+  },
+  {
+    "name": "Arapaho",
+    "symbol": "arp"
+  },
+  {
+    "name": "Arawak",
+    "symbol": "arw"
+  },
+  {
     "name": "Armenian",
     "symbol": "hy"
   },
   {
     "name": "Armenian (Armenia)",
     "symbol": "hy-AM"
+  },
+  {
+    "name": "Aromanian",
+    "symbol": "rup"
+  },
+  {
+    "name": "Arpitan",
+    "symbol": "frp"
   },
   {
     "name": "Assamese",
@@ -200,12 +304,28 @@
     "symbol": "asa-TZ"
   },
   {
-    "name": "Azerbaijani",
-    "symbol": "az"
+    "name": "Atsam",
+    "symbol": "cch"
   },
   {
-    "name": "Azerbaijani (Azerbaijan)",
-    "symbol": "az-AZ"
+    "name": "Avaric",
+    "symbol": "av"
+  },
+  {
+    "name": "Avestan",
+    "symbol": "ae"
+  },
+  {
+    "name": "Awadhi",
+    "symbol": "awa"
+  },
+  {
+    "name": "Aymara",
+    "symbol": "ay"
+  },
+  {
+    "name": "Azerbaijani",
+    "symbol": "az"
   },
   {
     "name": "Azerbaijani (Cyrillic)",
@@ -216,6 +336,18 @@
     "symbol": "az-Cyrl-AZ"
   },
   {
+    "name": "Azerbaijani (Latin)",
+    "symbol": "az-Latn"
+  },
+  {
+    "name": "Azerbaijani (Latin, Azerbaijan)",
+    "symbol": "az-Latn-AZ"
+  },
+  {
+    "name": "Badaga",
+    "symbol": "bfq"
+  },
+  {
     "name": "Bafia",
     "symbol": "ksf"
   },
@@ -224,12 +356,32 @@
     "symbol": "ksf-CM"
   },
   {
+    "name": "Bafut",
+    "symbol": "bfd"
+  },
+  {
+    "name": "Bakhtiari",
+    "symbol": "bqi"
+  },
+  {
+    "name": "Balinese",
+    "symbol": "ban"
+  },
+  {
+    "name": "Baluchi",
+    "symbol": "bal"
+  },
+  {
     "name": "Bambara",
     "symbol": "bm"
   },
   {
     "name": "Bambara (Mali)",
     "symbol": "bm-ML"
+  },
+  {
+    "name": "Bamun",
+    "symbol": "bax"
   },
   {
     "name": "Bangla",
@@ -244,6 +396,10 @@
     "symbol": "bn-IN"
   },
   {
+    "name": "Banjar",
+    "symbol": "bjn"
+  },
+  {
     "name": "Basaa",
     "symbol": "bas"
   },
@@ -252,12 +408,32 @@
     "symbol": "bas-CM"
   },
   {
+    "name": "Bashkir",
+    "symbol": "ba"
+  },
+  {
+    "name": "Bashkir (Russia)",
+    "symbol": "ba-RU"
+  },
+  {
     "name": "Basque",
     "symbol": "eu"
   },
   {
     "name": "Basque (Spain)",
     "symbol": "eu-ES"
+  },
+  {
+    "name": "Batak Toba",
+    "symbol": "bbc"
+  },
+  {
+    "name": "Bavarian",
+    "symbol": "bar"
+  },
+  {
+    "name": "Beja",
+    "symbol": "bej"
   },
   {
     "name": "Belarusian",
@@ -284,6 +460,42 @@
     "symbol": "bez-TZ"
   },
   {
+    "name": "Betawi",
+    "symbol": "bew"
+  },
+  {
+    "name": "Bhojpuri",
+    "symbol": "bho"
+  },
+  {
+    "name": "Bikol",
+    "symbol": "bik"
+  },
+  {
+    "name": "Bini",
+    "symbol": "bin"
+  },
+  {
+    "name": "Bishnupriya",
+    "symbol": "bpy"
+  },
+  {
+    "name": "Bislama",
+    "symbol": "bi"
+  },
+  {
+    "name": "Blin",
+    "symbol": "byn"
+  },
+  {
+    "name": "Blin (Eritrea)",
+    "symbol": "byn-ER"
+  },
+  {
+    "name": "Blissymbols",
+    "symbol": "zbl"
+  },
+  {
     "name": "Bodo",
     "symbol": "brx"
   },
@@ -296,16 +508,28 @@
     "symbol": "bs"
   },
   {
-    "name": "Bosnian (Bosnia & Herzegovina)",
-    "symbol": "bs-BA"
-  },
-  {
     "name": "Bosnian (Cyrillic)",
     "symbol": "bs-Cyrl"
   },
   {
     "name": "Bosnian (Cyrillic, Bosnia & Herzegovina)",
     "symbol": "bs-Cyrl-BA"
+  },
+  {
+    "name": "Bosnian (Latin)",
+    "symbol": "bs-Latn"
+  },
+  {
+    "name": "Bosnian (Latin, Bosnia & Herzegovina)",
+    "symbol": "bs-Latn-BA"
+  },
+  {
+    "name": "Brahui",
+    "symbol": "brh"
+  },
+  {
+    "name": "Braj",
+    "symbol": "bra"
   },
   {
     "name": "Breton",
@@ -316,12 +540,24 @@
     "symbol": "br-FR"
   },
   {
+    "name": "Buginese",
+    "symbol": "bug"
+  },
+  {
     "name": "Bulgarian",
     "symbol": "bg"
   },
   {
     "name": "Bulgarian (Bulgaria)",
     "symbol": "bg-BG"
+  },
+  {
+    "name": "Bulu",
+    "symbol": "bum"
+  },
+  {
+    "name": "Buriat",
+    "symbol": "bua"
   },
   {
     "name": "Burmese",
@@ -332,24 +568,40 @@
     "symbol": "my-MM"
   },
   {
+    "name": "Caddo",
+    "symbol": "cad"
+  },
+  {
+    "name": "Cajun French",
+    "symbol": "frc"
+  },
+  {
     "name": "Cantonese",
     "symbol": "yue"
   },
   {
-    "name": "Cantonese (Simplified)",
+    "name": "Cantonese, Simplified",
     "symbol": "yue-Hans"
   },
   {
-    "name": "Cantonese (Simplified, China mainland)",
+    "name": "Cantonese, Simplified (China mainland)",
     "symbol": "yue-Hans-CN"
   },
   {
-    "name": "Cantonese (Traditional)",
+    "name": "Cantonese, Traditional",
     "symbol": "yue-Hant"
   },
   {
-    "name": "Cantonese (Traditional, Hong Kong)",
+    "name": "Cantonese, Traditional (Hong Kong)",
     "symbol": "yue-Hant-HK"
+  },
+  {
+    "name": "Capiznon",
+    "symbol": "cps"
+  },
+  {
+    "name": "Carib",
+    "symbol": "car"
   },
   {
     "name": "Catalan",
@@ -372,6 +624,18 @@
     "symbol": "ca-ES"
   },
   {
+    "name": "Cayuga",
+    "symbol": "cay"
+  },
+  {
+    "name": "Cebuano",
+    "symbol": "ceb"
+  },
+  {
+    "name": "Cebuano (Philippines)",
+    "symbol": "ceb-PH"
+  },
+  {
     "name": "Central Atlas Tamazight",
     "symbol": "tzm"
   },
@@ -380,16 +644,20 @@
     "symbol": "tzm-MA"
   },
   {
-    "name": "Central Kurdish",
-    "symbol": "ckb"
+    "name": "Central Dusun",
+    "symbol": "dtp"
   },
   {
-    "name": "Central Kurdish (Iran)",
-    "symbol": "ckb-IR"
+    "name": "Central Yupik",
+    "symbol": "esu"
   },
   {
-    "name": "Central Kurdish (Iraq)",
-    "symbol": "ckb-IQ"
+    "name": "Chadian Arabic",
+    "symbol": "shu"
+  },
+  {
+    "name": "Chagatai",
+    "symbol": "chg"
   },
   {
     "name": "Chakma",
@@ -402,6 +670,10 @@
   {
     "name": "Chakma (India)",
     "symbol": "ccp-IN"
+  },
+  {
+    "name": "Chamorro",
+    "symbol": "ch"
   },
   {
     "name": "Chechen",
@@ -420,6 +692,14 @@
     "symbol": "chr-US"
   },
   {
+    "name": "Cheyenne",
+    "symbol": "chy"
+  },
+  {
+    "name": "Chibcha",
+    "symbol": "chb"
+  },
+  {
     "name": "Chiga",
     "symbol": "cgg"
   },
@@ -428,48 +708,88 @@
     "symbol": "cgg-UG"
   },
   {
+    "name": "Chimborazo Highland Quichua",
+    "symbol": "qug"
+  },
+  {
     "name": "Chinese",
     "symbol": "zh"
   },
   {
-    "name": "Chinese (Hong Kong)",
-    "symbol": "zh-HK"
-  },
-  {
-    "name": "Chinese (Simplified)",
+    "name": "Chinese, Simplified",
     "symbol": "zh-Hans"
   },
   {
-    "name": "Chinese (Simplified, China mainland)",
+    "name": "Chinese, Simplified (China mainland)",
     "symbol": "zh-Hans-CN"
   },
   {
-    "name": "Chinese (Simplified, Hong Kong)",
+    "name": "Chinese, Simplified (Hong Kong)",
     "symbol": "zh-Hans-HK"
   },
   {
-    "name": "Chinese (Simplified, Macau)",
+    "name": "Chinese, Simplified (Macao)",
     "symbol": "zh-Hans-MO"
   },
   {
-    "name": "Chinese (Simplified, Singapore)",
+    "name": "Chinese, Simplified (Singapore)",
     "symbol": "zh-Hans-SG"
   },
   {
-    "name": "Chinese (Traditional)",
+    "name": "Chinese, Traditional",
     "symbol": "zh-Hant"
   },
   {
-    "name": "Chinese (Traditional, Hong Kong)",
+    "name": "Chinese, Traditional (China mainland)",
+    "symbol": "zh-Hant-CN"
+  },
+  {
+    "name": "Chinese, Traditional (Hong Kong)",
     "symbol": "zh-Hant-HK"
   },
   {
-    "name": "Chinese (Traditional, Macau)",
+    "name": "Chinese, Traditional (Macao)",
     "symbol": "zh-Hant-MO"
   },
   {
-    "name": "Chinese (Traditional, Taiwan)",
+    "name": "Chinese, Traditional (Taiwan)",
     "symbol": "zh-Hant-TW"
+  },
+  {
+    "name": "Chinook Jargon",
+    "symbol": "chn"
+  },
+  {
+    "name": "Chipewyan",
+    "symbol": "chp"
+  },
+  {
+    "name": "Choctaw",
+    "symbol": "cho"
+  },
+  {
+    "name": "Church Slavic",
+    "symbol": "cu"
+  },
+  {
+    "name": "Chuukese",
+    "symbol": "chk"
+  },
+  {
+    "name": "Chuvash",
+    "symbol": "cv"
+  },
+  {
+    "name": "Chuvash (Russia)",
+    "symbol": "cv-RU"
+  },
+  {
+    "name": "Classical Newari",
+    "symbol": "nwc"
+  },
+  {
+    "name": "Classical Syriac",
+    "symbol": "syc"
   },
   {
     "name": "Colognian",
@@ -480,12 +800,36 @@
     "symbol": "ksh-DE"
   },
   {
+    "name": "Comorian",
+    "symbol": "swb"
+  },
+  {
+    "name": "Coptic",
+    "symbol": "cop"
+  },
+  {
     "name": "Cornish",
     "symbol": "kw"
   },
   {
     "name": "Cornish (United Kingdom)",
     "symbol": "kw-GB"
+  },
+  {
+    "name": "Corsican",
+    "symbol": "co"
+  },
+  {
+    "name": "Corsican (France)",
+    "symbol": "co-FR"
+  },
+  {
+    "name": "Cree",
+    "symbol": "cr"
+  },
+  {
+    "name": "Crimean Turkish",
+    "symbol": "crh"
   },
   {
     "name": "Croatian",
@@ -508,6 +852,10 @@
     "symbol": "cs-CZ"
   },
   {
+    "name": "Dakota",
+    "symbol": "dak"
+  },
+  {
     "name": "Danish",
     "symbol": "da"
   },
@@ -518,6 +866,38 @@
   {
     "name": "Danish (Greenland)",
     "symbol": "da-GL"
+  },
+  {
+    "name": "Dargwa",
+    "symbol": "dar"
+  },
+  {
+    "name": "Dazaga",
+    "symbol": "dzg"
+  },
+  {
+    "name": "Delaware",
+    "symbol": "del"
+  },
+  {
+    "name": "Dhivehi",
+    "symbol": "dv"
+  },
+  {
+    "name": "Dhivehi (Maldives)",
+    "symbol": "dv-MV"
+  },
+  {
+    "name": "Dinka",
+    "symbol": "din"
+  },
+  {
+    "name": "Dogri",
+    "symbol": "doi"
+  },
+  {
+    "name": "Dogrib",
+    "symbol": "dgr"
   },
   {
     "name": "Duala",
@@ -560,6 +940,10 @@
     "symbol": "nl-SR"
   },
   {
+    "name": "Dyula",
+    "symbol": "dyu"
+  },
+  {
     "name": "Dzongkha",
     "symbol": "dz"
   },
@@ -568,12 +952,36 @@
     "symbol": "dz-BT"
   },
   {
+    "name": "Eastern Frisian",
+    "symbol": "frs"
+  },
+  {
+    "name": "Efik",
+    "symbol": "efi"
+  },
+  {
+    "name": "Egyptian Arabic",
+    "symbol": "arz"
+  },
+  {
+    "name": "Ekajuk",
+    "symbol": "eka"
+  },
+  {
+    "name": "Elamite",
+    "symbol": "elx"
+  },
+  {
     "name": "Embu",
     "symbol": "ebu"
   },
   {
     "name": "Embu (Kenya)",
     "symbol": "ebu-KE"
+  },
+  {
+    "name": "Emilian",
+    "symbol": "egl"
   },
   {
     "name": "English",
@@ -586,10 +994,6 @@
   {
     "name": "English (American Samoa)",
     "symbol": "en-AS"
-  },
-  {
-    "name": "English (Andorra)",
-    "symbol": "en-AD"
   },
   {
     "name": "English (Anguilla)",
@@ -636,10 +1040,6 @@
     "symbol": "en-BM"
   },
   {
-    "name": "English (Bosnia & Herzegovina)",
-    "symbol": "en-BA"
-  },
-  {
     "name": "English (Botswana)",
     "symbol": "en-BW"
   },
@@ -648,12 +1048,12 @@
     "symbol": "en-BR"
   },
   {
-    "name": "English (British Indian Ocean Territory)",
-    "symbol": "en-IO"
-  },
-  {
     "name": "English (British Virgin Islands)",
     "symbol": "en-VG"
+  },
+  {
+    "name": "English (Brunei)",
+    "symbol": "en-BN"
   },
   {
     "name": "English (Bulgaria)",
@@ -676,6 +1076,14 @@
     "symbol": "en-KY"
   },
   {
+    "name": "English (Chagos Archipelago)",
+    "symbol": "en-IO"
+  },
+  {
+    "name": "English (Chile)",
+    "symbol": "en-CL"
+  },
+  {
     "name": "English (China mainland)",
     "symbol": "en-CN"
   },
@@ -688,12 +1096,12 @@
     "symbol": "en-CC"
   },
   {
-    "name": "English (Cook Islands)",
-    "symbol": "en-CK"
+    "name": "English (Colombia)",
+    "symbol": "en-CO"
   },
   {
-    "name": "English (Croatia)",
-    "symbol": "en-HR"
+    "name": "English (Cook Islands)",
+    "symbol": "en-CK"
   },
   {
     "name": "English (Cyprus)",
@@ -722,6 +1130,10 @@
   {
     "name": "English (Estonia)",
     "symbol": "en-EE"
+  },
+  {
+    "name": "English (Eswatini)",
+    "symbol": "en-SZ"
   },
   {
     "name": "English (Europe)",
@@ -788,10 +1200,6 @@
     "symbol": "en-HU"
   },
   {
-    "name": "English (Iceland)",
-    "symbol": "en-IS"
-  },
-  {
     "name": "English (India)",
     "symbol": "en-IN"
   },
@@ -810,10 +1218,6 @@
   {
     "name": "English (Israel)",
     "symbol": "en-IL"
-  },
-  {
-    "name": "English (Italy)",
-    "symbol": "en-IT"
   },
   {
     "name": "English (Jamaica)",
@@ -852,11 +1256,7 @@
     "symbol": "en-LT"
   },
   {
-    "name": "English (Luxembourg)",
-    "symbol": "en-LU"
-  },
-  {
-    "name": "English (Macau)",
+    "name": "English (Macao)",
     "symbol": "en-MO"
   },
   {
@@ -888,16 +1288,20 @@
     "symbol": "en-MU"
   },
   {
+    "name": "English (Mexico)",
+    "symbol": "en-MX"
+  },
+  {
     "name": "English (Micronesia)",
     "symbol": "en-FM"
   },
   {
-    "name": "English (Montenegro)",
-    "symbol": "en-ME"
-  },
-  {
     "name": "English (Montserrat)",
     "symbol": "en-MS"
+  },
+  {
+    "name": "English (Myanmar [Burma])",
+    "symbol": "en-MM"
   },
   {
     "name": "English (Namibia)",
@@ -968,10 +1372,6 @@
     "symbol": "en-PR"
   },
   {
-    "name": "English (Romania)",
-    "symbol": "en-RO"
-  },
-  {
     "name": "English (Russia)",
     "symbol": "en-RU"
   },
@@ -1028,10 +1428,6 @@
     "symbol": "en-SS"
   },
   {
-    "name": "English (Spain)",
-    "symbol": "en-ES"
-  },
-  {
     "name": "English (St. Helena)",
     "symbol": "en-SH"
   },
@@ -1050,10 +1446,6 @@
   {
     "name": "English (Sudan)",
     "symbol": "en-SD"
-  },
-  {
-    "name": "English (Swaziland)",
-    "symbol": "en-SZ"
   },
   {
     "name": "English (Sweden)",
@@ -1112,6 +1504,14 @@
     "symbol": "en-UG"
   },
   {
+    "name": "English (Ukraine)",
+    "symbol": "en-UA"
+  },
+  {
+    "name": "English (United Arab Emirates)",
+    "symbol": "en-AE"
+  },
+  {
     "name": "English (United Kingdom)",
     "symbol": "en-GB"
   },
@@ -1140,8 +1540,20 @@
     "symbol": "en-ZW"
   },
   {
+    "name": "Erzya",
+    "symbol": "myv"
+  },
+  {
+    "name": "Erzya (Russia)",
+    "symbol": "myv-RU"
+  },
+  {
     "name": "Esperanto",
     "symbol": "eo"
+  },
+  {
+    "name": "Esperanto (World)",
+    "symbol": "eo-001"
   },
   {
     "name": "Estonian",
@@ -1172,6 +1584,18 @@
     "symbol": "ewo-CM"
   },
   {
+    "name": "Extremaduran",
+    "symbol": "ext"
+  },
+  {
+    "name": "Fang",
+    "symbol": "fan"
+  },
+  {
+    "name": "Fanti",
+    "symbol": "fat"
+  },
+  {
     "name": "Faroese",
     "symbol": "fo"
   },
@@ -1182,6 +1606,14 @@
   {
     "name": "Faroese (Faroe Islands)",
     "symbol": "fo-FO"
+  },
+  {
+    "name": "Fiji Hindi",
+    "symbol": "hif"
+  },
+  {
+    "name": "Fijian",
+    "symbol": "fj"
   },
   {
     "name": "Filipino",
@@ -1198,6 +1630,14 @@
   {
     "name": "Finnish (Finland)",
     "symbol": "fi-FI"
+  },
+  {
+    "name": "Fon",
+    "symbol": "fon"
+  },
+  {
+    "name": "Frafra",
+    "symbol": "gur"
   },
   {
     "name": "French",
@@ -1248,11 +1688,11 @@
     "symbol": "fr-CG"
   },
   {
-    "name": "French (Congo Kinshasa)",
+    "name": "French (Congo - Kinshasa)",
     "symbol": "fr-CD"
   },
   {
-    "name": "French (Côte d'Ivoire)",
+    "name": "French (Côte d’Ivoire)",
     "symbol": "fr-CI"
   },
   {
@@ -1336,12 +1776,12 @@
     "symbol": "fr-NE"
   },
   {
-    "name": "French (Réunion)",
-    "symbol": "fr-RE"
-  },
-  {
     "name": "French (Rwanda)",
     "symbol": "fr-RW"
+  },
+  {
+    "name": "French (Réunion)",
+    "symbol": "fr-RE"
   },
   {
     "name": "French (Senegal)",
@@ -1400,20 +1840,68 @@
     "symbol": "ff"
   },
   {
-    "name": "Fulah (Cameroon)",
-    "symbol": "ff-CM"
+    "name": "Fulah (Latin)",
+    "symbol": "ff-Latn"
   },
   {
-    "name": "Fulah (Guinea)",
-    "symbol": "ff-GN"
+    "name": "Fulah (Latin, Burkina Faso)",
+    "symbol": "ff-Latn-BF"
   },
   {
-    "name": "Fulah (Mauritania)",
-    "symbol": "ff-MR"
+    "name": "Fulah (Latin, Cameroon)",
+    "symbol": "ff-Latn-CM"
   },
   {
-    "name": "Fulah (Senegal)",
-    "symbol": "ff-SN"
+    "name": "Fulah (Latin, Gambia)",
+    "symbol": "ff-Latn-GM"
+  },
+  {
+    "name": "Fulah (Latin, Ghana)",
+    "symbol": "ff-Latn-GH"
+  },
+  {
+    "name": "Fulah (Latin, Guinea)",
+    "symbol": "ff-Latn-GN"
+  },
+  {
+    "name": "Fulah (Latin, Guinea-Bissau)",
+    "symbol": "ff-Latn-GW"
+  },
+  {
+    "name": "Fulah (Latin, Liberia)",
+    "symbol": "ff-Latn-LR"
+  },
+  {
+    "name": "Fulah (Latin, Mauritania)",
+    "symbol": "ff-Latn-MR"
+  },
+  {
+    "name": "Fulah (Latin, Niger)",
+    "symbol": "ff-Latn-NE"
+  },
+  {
+    "name": "Fulah (Latin, Nigeria)",
+    "symbol": "ff-Latn-NG"
+  },
+  {
+    "name": "Fulah (Latin, Senegal)",
+    "symbol": "ff-Latn-SN"
+  },
+  {
+    "name": "Fulah (Latin, Sierra Leone)",
+    "symbol": "ff-Latn-SL"
+  },
+  {
+    "name": "Ga",
+    "symbol": "gaa"
+  },
+  {
+    "name": "Ga (Ghana)",
+    "symbol": "gaa-GH"
+  },
+  {
+    "name": "Gagauz",
+    "symbol": "gag"
   },
   {
     "name": "Galician",
@@ -1424,12 +1912,36 @@
     "symbol": "gl-ES"
   },
   {
+    "name": "Gan Chinese",
+    "symbol": "gan"
+  },
+  {
     "name": "Ganda",
     "symbol": "lg"
   },
   {
     "name": "Ganda (Uganda)",
     "symbol": "lg-UG"
+  },
+  {
+    "name": "Gayo",
+    "symbol": "gay"
+  },
+  {
+    "name": "Gbaya",
+    "symbol": "gba"
+  },
+  {
+    "name": "Geez",
+    "symbol": "gez"
+  },
+  {
+    "name": "Geez (Eritrea)",
+    "symbol": "gez-ER"
+  },
+  {
+    "name": "Geez (Ethiopia)",
+    "symbol": "gez-ET"
   },
   {
     "name": "Georgian",
@@ -1472,6 +1984,42 @@
     "symbol": "de-CH"
   },
   {
+    "name": "Gheg Albanian",
+    "symbol": "aln"
+  },
+  {
+    "name": "Ghomala",
+    "symbol": "bbj"
+  },
+  {
+    "name": "Gilaki",
+    "symbol": "glk"
+  },
+  {
+    "name": "Gilbertese",
+    "symbol": "gil"
+  },
+  {
+    "name": "Goan Konkani",
+    "symbol": "gom"
+  },
+  {
+    "name": "Gondi",
+    "symbol": "gon"
+  },
+  {
+    "name": "Gorontalo",
+    "symbol": "gor"
+  },
+  {
+    "name": "Gothic",
+    "symbol": "got"
+  },
+  {
+    "name": "Grebo",
+    "symbol": "grb"
+  },
+  {
     "name": "Greek",
     "symbol": "el"
   },
@@ -1482,6 +2030,14 @@
   {
     "name": "Greek (Greece)",
     "symbol": "el-GR"
+  },
+  {
+    "name": "Guarani",
+    "symbol": "gn"
+  },
+  {
+    "name": "Guarani (Paraguay)",
+    "symbol": "gn-PY"
   },
   {
     "name": "Gujarati",
@@ -1498,6 +2054,22 @@
   {
     "name": "Gusii (Kenya)",
     "symbol": "guz-KE"
+  },
+  {
+    "name": "Gwichʼin",
+    "symbol": "gwi"
+  },
+  {
+    "name": "Haida",
+    "symbol": "hai"
+  },
+  {
+    "name": "Haitian Creole",
+    "symbol": "ht"
+  },
+  {
+    "name": "Hakka Chinese",
+    "symbol": "hak"
   },
   {
     "name": "Hausa",
@@ -1532,12 +2104,40 @@
     "symbol": "he-IL"
   },
   {
+    "name": "Herero",
+    "symbol": "hz"
+  },
+  {
+    "name": "Hiligaynon",
+    "symbol": "hil"
+  },
+  {
     "name": "Hindi",
     "symbol": "hi"
   },
   {
     "name": "Hindi (India)",
     "symbol": "hi-IN"
+  },
+  {
+    "name": "Hindi (Latin)",
+    "symbol": "hi-Latn"
+  },
+  {
+    "name": "Hindi (Latin, India)",
+    "symbol": "hi-Latn-IN"
+  },
+  {
+    "name": "Hiri Motu",
+    "symbol": "ho"
+  },
+  {
+    "name": "Hittite",
+    "symbol": "hit"
+  },
+  {
+    "name": "Hmong",
+    "symbol": "hmn"
   },
   {
     "name": "Hungarian",
@@ -1548,6 +2148,18 @@
     "symbol": "hu-HU"
   },
   {
+    "name": "Hupa",
+    "symbol": "hup"
+  },
+  {
+    "name": "Iban",
+    "symbol": "iba"
+  },
+  {
+    "name": "Ibibio",
+    "symbol": "ibb"
+  },
+  {
     "name": "Icelandic",
     "symbol": "is"
   },
@@ -1556,12 +2168,24 @@
     "symbol": "is-IS"
   },
   {
+    "name": "Ido",
+    "symbol": "io"
+  },
+  {
+    "name": "Ido (World)",
+    "symbol": "io-001"
+  },
+  {
     "name": "Igbo",
     "symbol": "ig"
   },
   {
     "name": "Igbo (Nigeria)",
     "symbol": "ig-NG"
+  },
+  {
+    "name": "Iloko",
+    "symbol": "ilo"
   },
   {
     "name": "Inari Sami",
@@ -1580,6 +2204,26 @@
     "symbol": "id-ID"
   },
   {
+    "name": "Ingrian",
+    "symbol": "izh"
+  },
+  {
+    "name": "Ingush",
+    "symbol": "inh"
+  },
+  {
+    "name": "Interlingua",
+    "symbol": "ia"
+  },
+  {
+    "name": "Interlingua (World)",
+    "symbol": "ia-001"
+  },
+  {
+    "name": "Interlingue",
+    "symbol": "ie"
+  },
+  {
     "name": "Inuktitut",
     "symbol": "iu"
   },
@@ -1588,12 +2232,20 @@
     "symbol": "iu-CA"
   },
   {
+    "name": "Inupiaq",
+    "symbol": "ik"
+  },
+  {
     "name": "Irish",
     "symbol": "ga"
   },
   {
     "name": "Irish (Ireland)",
     "symbol": "ga-IE"
+  },
+  {
+    "name": "Irish (United Kingdom)",
+    "symbol": "ga-GB"
   },
   {
     "name": "Italian",
@@ -1616,6 +2268,10 @@
     "symbol": "it-VA"
   },
   {
+    "name": "Jamaican Creole English",
+    "symbol": "jam"
+  },
+  {
     "name": "Japanese",
     "symbol": "ja"
   },
@@ -1624,12 +2280,44 @@
     "symbol": "ja-JP"
   },
   {
+    "name": "Javanese",
+    "symbol": "jv"
+  },
+  {
+    "name": "Javanese (Indonesia)",
+    "symbol": "jv-ID"
+  },
+  {
+    "name": "Jju",
+    "symbol": "kaj"
+  },
+  {
+    "name": "Jju (Nigeria)",
+    "symbol": "kaj-NG"
+  },
+  {
     "name": "Jola-Fonyi",
     "symbol": "dyo"
   },
   {
     "name": "Jola-Fonyi (Senegal)",
     "symbol": "dyo-SN"
+  },
+  {
+    "name": "Judeo-Arabic",
+    "symbol": "jrb"
+  },
+  {
+    "name": "Judeo-Persian",
+    "symbol": "jpr"
+  },
+  {
+    "name": "Jutish",
+    "symbol": "jut"
+  },
+  {
+    "name": "Kabardian",
+    "symbol": "kbd"
   },
   {
     "name": "Kabuverdianu",
@@ -1646,6 +2334,14 @@
   {
     "name": "Kabyle (Algeria)",
     "symbol": "kab-DZ"
+  },
+  {
+    "name": "Kachin",
+    "symbol": "kac"
+  },
+  {
+    "name": "Kaingang",
+    "symbol": "kgp"
   },
   {
     "name": "Kako",
@@ -1672,12 +2368,20 @@
     "symbol": "kln-KE"
   },
   {
+    "name": "Kalmyk",
+    "symbol": "xal"
+  },
+  {
     "name": "Kamba",
     "symbol": "kam"
   },
   {
     "name": "Kamba (Kenya)",
     "symbol": "kam-KE"
+  },
+  {
+    "name": "Kanembu",
+    "symbol": "kbl"
   },
   {
     "name": "Kannada",
@@ -1688,12 +2392,56 @@
     "symbol": "kn-IN"
   },
   {
+    "name": "Kanuri",
+    "symbol": "kr"
+  },
+  {
+    "name": "Kara-Kalpak",
+    "symbol": "kaa"
+  },
+  {
+    "name": "Karachay-Balkar",
+    "symbol": "krc"
+  },
+  {
+    "name": "Karelian",
+    "symbol": "krl"
+  },
+  {
     "name": "Kashmiri",
     "symbol": "ks"
   },
   {
-    "name": "Kashmiri (India)",
-    "symbol": "ks-IN"
+    "name": "Kashmiri (Devanagari)",
+    "symbol": "ks-Deva"
+  },
+  {
+    "name": "Kashmiri (Devanagari, India)",
+    "symbol": "ks-Deva-IN"
+  },
+  {
+    "name": "Kashmiri (Naskh)",
+    "symbol": "ks-Arab"
+  },
+  {
+    "name": "Kashmiri (Naskh, India)",
+    "symbol": "ks-Arab-IN"
+  },
+  {
+    "name": "Kashmiri (Nastaliq)",
+    "symbol": "ks-Aran"
+  },
+  {
+    "name": "Kashmiri (Nastaliq, India)",
+    "symbol": "ks-Aran-IN"
+  },
+  {
+    "name": "Kashubian",
+    "symbol": "csb"
+  },
+  {
+    "name": "Kawi",
+    "symbol": "kaw"
   },
   {
     "name": "Kazakh",
@@ -1704,12 +2452,28 @@
     "symbol": "kk-KZ"
   },
   {
+    "name": "Kenyang",
+    "symbol": "ken"
+  },
+  {
+    "name": "Khasi",
+    "symbol": "kha"
+  },
+  {
     "name": "Khmer",
     "symbol": "km"
   },
   {
     "name": "Khmer (Cambodia)",
     "symbol": "km-KH"
+  },
+  {
+    "name": "Khotanese",
+    "symbol": "kho"
+  },
+  {
+    "name": "Khowar",
+    "symbol": "khw"
   },
   {
     "name": "Kikuyu",
@@ -1720,12 +2484,44 @@
     "symbol": "ki-KE"
   },
   {
+    "name": "Kimbundu",
+    "symbol": "kmb"
+  },
+  {
+    "name": "Kinaray-a",
+    "symbol": "krj"
+  },
+  {
     "name": "Kinyarwanda",
     "symbol": "rw"
   },
   {
     "name": "Kinyarwanda (Rwanda)",
     "symbol": "rw-RW"
+  },
+  {
+    "name": "Kirmanjki",
+    "symbol": "kiu"
+  },
+  {
+    "name": "Klingon",
+    "symbol": "tlh"
+  },
+  {
+    "name": "Kom",
+    "symbol": "bkm"
+  },
+  {
+    "name": "Komi",
+    "symbol": "kv"
+  },
+  {
+    "name": "Komi-Permyak",
+    "symbol": "koi"
+  },
+  {
+    "name": "Kongo",
+    "symbol": "kg"
   },
   {
     "name": "Konkani",
@@ -1748,6 +2544,18 @@
     "symbol": "ko-KR"
   },
   {
+    "name": "Koro",
+    "symbol": "kfo"
+  },
+  {
+    "name": "Kosraean",
+    "symbol": "kos"
+  },
+  {
+    "name": "Kotava",
+    "symbol": "avk"
+  },
+  {
     "name": "Koyra Chiini",
     "symbol": "khq"
   },
@@ -1762,6 +2570,58 @@
   {
     "name": "Koyraboro Senni (Mali)",
     "symbol": "ses-ML"
+  },
+  {
+    "name": "Kpelle",
+    "symbol": "kpe"
+  },
+  {
+    "name": "Kpelle (Guinea)",
+    "symbol": "kpe-GN"
+  },
+  {
+    "name": "Kpelle (Liberia)",
+    "symbol": "kpe-LR"
+  },
+  {
+    "name": "Krio",
+    "symbol": "kri"
+  },
+  {
+    "name": "Kuanyama",
+    "symbol": "kj"
+  },
+  {
+    "name": "Kumyk",
+    "symbol": "kum"
+  },
+  {
+    "name": "Kurdish",
+    "symbol": "ku"
+  },
+  {
+    "name": "Kurdish (Turkey)",
+    "symbol": "ku-TR"
+  },
+  {
+    "name": "Kurdish, Sorani",
+    "symbol": "ckb"
+  },
+  {
+    "name": "Kurdish, Sorani (Iran)",
+    "symbol": "ckb-IR"
+  },
+  {
+    "name": "Kurdish, Sorani (Iraq)",
+    "symbol": "ckb-IQ"
+  },
+  {
+    "name": "Kurukh",
+    "symbol": "kru"
+  },
+  {
+    "name": "Kutenai",
+    "symbol": "kut"
   },
   {
     "name": "Kwasio",
@@ -1780,12 +2640,28 @@
     "symbol": "ky-KG"
   },
   {
+    "name": "Kʼicheʼ",
+    "symbol": "quc"
+  },
+  {
+    "name": "Ladino",
+    "symbol": "lad"
+  },
+  {
+    "name": "Lahnda",
+    "symbol": "lah"
+  },
+  {
     "name": "Lakota",
     "symbol": "lkt"
   },
   {
     "name": "Lakota (United States)",
     "symbol": "lkt-US"
+  },
+  {
+    "name": "Lamba",
+    "symbol": "lam"
   },
   {
     "name": "Langi",
@@ -1804,12 +2680,36 @@
     "symbol": "lo-LA"
   },
   {
+    "name": "Latgalian",
+    "symbol": "ltg"
+  },
+  {
+    "name": "Latin",
+    "symbol": "la"
+  },
+  {
     "name": "Latvian",
     "symbol": "lv"
   },
   {
     "name": "Latvian (Latvia)",
     "symbol": "lv-LV"
+  },
+  {
+    "name": "Laz",
+    "symbol": "lzz"
+  },
+  {
+    "name": "Lezghian",
+    "symbol": "lez"
+  },
+  {
+    "name": "Ligurian",
+    "symbol": "lij"
+  },
+  {
+    "name": "Limburgish",
+    "symbol": "li"
   },
   {
     "name": "Lingala",
@@ -1832,12 +2732,36 @@
     "symbol": "ln-CD"
   },
   {
+    "name": "Lingua Franca Nova",
+    "symbol": "lfn"
+  },
+  {
+    "name": "Literary Chinese",
+    "symbol": "lzh"
+  },
+  {
     "name": "Lithuanian",
     "symbol": "lt"
   },
   {
     "name": "Lithuanian (Lithuania)",
     "symbol": "lt-LT"
+  },
+  {
+    "name": "Livonian",
+    "symbol": "liv"
+  },
+  {
+    "name": "Lojban",
+    "symbol": "jbo"
+  },
+  {
+    "name": "Lojban (World)",
+    "symbol": "jbo-001"
+  },
+  {
+    "name": "Lombard",
+    "symbol": "lmo"
   },
   {
     "name": "Low German",
@@ -1852,6 +2776,10 @@
     "symbol": "nds-NL"
   },
   {
+    "name": "Lower Silesian",
+    "symbol": "sli"
+  },
+  {
     "name": "Lower Sorbian",
     "symbol": "dsb"
   },
@@ -1860,12 +2788,32 @@
     "symbol": "dsb-DE"
   },
   {
+    "name": "Lozi",
+    "symbol": "loz"
+  },
+  {
     "name": "Luba-Katanga",
     "symbol": "lu"
   },
   {
-    "name": "Luba-Katanga (Congo Kinshasa)",
+    "name": "Luba-Katanga (Congo - Kinshasa)",
     "symbol": "lu-CD"
+  },
+  {
+    "name": "Luba-Lulua",
+    "symbol": "lua"
+  },
+  {
+    "name": "Luiseno",
+    "symbol": "lui"
+  },
+  {
+    "name": "Lule Sami",
+    "symbol": "smj"
+  },
+  {
+    "name": "Lunda",
+    "symbol": "lun"
   },
   {
     "name": "Luo",
@@ -1892,11 +2840,15 @@
     "symbol": "luy-KE"
   },
   {
+    "name": "Maba",
+    "symbol": "mde"
+  },
+  {
     "name": "Macedonian",
     "symbol": "mk"
   },
   {
-    "name": "Macedonian (Macedonia)",
+    "name": "Macedonian (North Macedonia)",
     "symbol": "mk-MK"
   },
   {
@@ -1906,6 +2858,30 @@
   {
     "name": "Machame (Tanzania)",
     "symbol": "jmc-TZ"
+  },
+  {
+    "name": "Madurese",
+    "symbol": "mad"
+  },
+  {
+    "name": "Mafa",
+    "symbol": "maf"
+  },
+  {
+    "name": "Magahi",
+    "symbol": "mag"
+  },
+  {
+    "name": "Main-Franconian",
+    "symbol": "vmf"
+  },
+  {
+    "name": "Maithili",
+    "symbol": "mai"
+  },
+  {
+    "name": "Makasar",
+    "symbol": "mak"
   },
   {
     "name": "Makhuwa-Meetto",
@@ -1976,6 +2952,38 @@
     "symbol": "mt-MT"
   },
   {
+    "name": "Manchu",
+    "symbol": "mnc"
+  },
+  {
+    "name": "Mandar",
+    "symbol": "mdr"
+  },
+  {
+    "name": "Mandingo",
+    "symbol": "man"
+  },
+  {
+    "name": "Manipuri",
+    "symbol": "mni"
+  },
+  {
+    "name": "Manipuri (Bangla)",
+    "symbol": "mni-Beng"
+  },
+  {
+    "name": "Manipuri (Bangla, India)",
+    "symbol": "mni-Beng-IN"
+  },
+  {
+    "name": "Manipuri (Meitei Mayek)",
+    "symbol": "mni-Mtei"
+  },
+  {
+    "name": "Manipuri (Meitei Mayek, India)",
+    "symbol": "mni-Mtei-IN"
+  },
+  {
     "name": "Manx",
     "symbol": "gv"
   },
@@ -1984,12 +2992,40 @@
     "symbol": "gv-IM"
   },
   {
+    "name": "Maori",
+    "symbol": "mi"
+  },
+  {
+    "name": "Maori (New Zealand)",
+    "symbol": "mi-NZ"
+  },
+  {
+    "name": "Mapuche",
+    "symbol": "arn"
+  },
+  {
+    "name": "Mapuche (Chile)",
+    "symbol": "arn-CL"
+  },
+  {
     "name": "Marathi",
     "symbol": "mr"
   },
   {
     "name": "Marathi (India)",
     "symbol": "mr-IN"
+  },
+  {
+    "name": "Mari",
+    "symbol": "chm"
+  },
+  {
+    "name": "Marshallese",
+    "symbol": "mh"
+  },
+  {
+    "name": "Marwari",
+    "symbol": "mwr"
   },
   {
     "name": "Masai",
@@ -2012,6 +3048,18 @@
     "symbol": "mzn-IR"
   },
   {
+    "name": "Medumba",
+    "symbol": "byv"
+  },
+  {
+    "name": "Mende",
+    "symbol": "men"
+  },
+  {
+    "name": "Mentawai",
+    "symbol": "mwv"
+  },
+  {
     "name": "Meru",
     "symbol": "mer"
   },
@@ -2020,12 +3068,72 @@
     "symbol": "mer-KE"
   },
   {
-    "name": "Meta'",
+    "name": "Metaʼ",
     "symbol": "mgo"
   },
   {
-    "name": "Meta' (Cameroon)",
+    "name": "Metaʼ (Cameroon)",
     "symbol": "mgo-CM"
+  },
+  {
+    "name": "Mi'kmaq",
+    "symbol": "mic"
+  },
+  {
+    "name": "Middle Dutch",
+    "symbol": "dum"
+  },
+  {
+    "name": "Middle English",
+    "symbol": "enm"
+  },
+  {
+    "name": "Middle French",
+    "symbol": "frm"
+  },
+  {
+    "name": "Middle High German",
+    "symbol": "gmh"
+  },
+  {
+    "name": "Middle Irish",
+    "symbol": "mga"
+  },
+  {
+    "name": "Min Nan Chinese",
+    "symbol": "nan"
+  },
+  {
+    "name": "Minangkabau",
+    "symbol": "min"
+  },
+  {
+    "name": "Mingrelian",
+    "symbol": "xmf"
+  },
+  {
+    "name": "Mirandese",
+    "symbol": "mwl"
+  },
+  {
+    "name": "Mizo",
+    "symbol": "lus"
+  },
+  {
+    "name": "Mohawk",
+    "symbol": "moh"
+  },
+  {
+    "name": "Mohawk (Canada)",
+    "symbol": "moh-CA"
+  },
+  {
+    "name": "Moksha",
+    "symbol": "mdf"
+  },
+  {
+    "name": "Mongo",
+    "symbol": "lol"
   },
   {
     "name": "Mongolian",
@@ -2044,6 +3152,18 @@
     "symbol": "mfe-MU"
   },
   {
+    "name": "Moroccan Arabic",
+    "symbol": "ary"
+  },
+  {
+    "name": "Mossi",
+    "symbol": "mos"
+  },
+  {
+    "name": "Multiple languages",
+    "symbol": "mul"
+  },
+  {
     "name": "Mundang",
     "symbol": "mua"
   },
@@ -2052,12 +3172,40 @@
     "symbol": "mua-CM"
   },
   {
+    "name": "Muscogee",
+    "symbol": "mus"
+  },
+  {
+    "name": "Muslim Tat",
+    "symbol": "ttt"
+  },
+  {
+    "name": "Myene",
+    "symbol": "mye"
+  },
+  {
     "name": "Nama",
     "symbol": "naq"
   },
   {
     "name": "Nama (Namibia)",
     "symbol": "naq-NA"
+  },
+  {
+    "name": "Nauru",
+    "symbol": "na"
+  },
+  {
+    "name": "Navajo",
+    "symbol": "nv"
+  },
+  {
+    "name": "Ndonga",
+    "symbol": "ng"
+  },
+  {
+    "name": "Neapolitan",
+    "symbol": "nap"
   },
   {
     "name": "Nepali",
@@ -2070,6 +3218,14 @@
   {
     "name": "Nepali (Nepal)",
     "symbol": "ne-NP"
+  },
+  {
+    "name": "Newari",
+    "symbol": "new"
+  },
+  {
+    "name": "Ngambay",
+    "symbol": "sba"
   },
   {
     "name": "Ngiemboon",
@@ -2088,12 +3244,36 @@
     "symbol": "jgo-CM"
   },
   {
+    "name": "Nheengatu",
+    "symbol": "yrl"
+  },
+  {
+    "name": "Nias",
+    "symbol": "nia"
+  },
+  {
+    "name": "Niuean",
+    "symbol": "niu"
+  },
+  {
+    "name": "No linguistic content",
+    "symbol": "zxx"
+  },
+  {
+    "name": "Nogai",
+    "symbol": "nog"
+  },
+  {
     "name": "North Ndebele",
     "symbol": "nd"
   },
   {
     "name": "North Ndebele (Zimbabwe)",
     "symbol": "nd-ZW"
+  },
+  {
+    "name": "Northern Frisian",
+    "symbol": "frr"
   },
   {
     "name": "Northern Luri",
@@ -2124,6 +3304,18 @@
     "symbol": "se-SE"
   },
   {
+    "name": "Northern Sotho",
+    "symbol": "nso"
+  },
+  {
+    "name": "Northern Sotho (South Africa)",
+    "symbol": "nso-ZA"
+  },
+  {
+    "name": "Norwegian",
+    "symbol": "no"
+  },
+  {
     "name": "Norwegian Bokmål",
     "symbol": "nb"
   },
@@ -2144,12 +3336,28 @@
     "symbol": "nn-NO"
   },
   {
+    "name": "Novial",
+    "symbol": "nov"
+  },
+  {
     "name": "Nuer",
     "symbol": "nus"
   },
   {
     "name": "Nuer (South Sudan)",
     "symbol": "nus-SS"
+  },
+  {
+    "name": "Nyamwezi",
+    "symbol": "nym"
+  },
+  {
+    "name": "Nyanja",
+    "symbol": "ny"
+  },
+  {
+    "name": "Nyanja (Malawi)",
+    "symbol": "ny-MW"
   },
   {
     "name": "Nyankole",
@@ -2160,12 +3368,72 @@
     "symbol": "nyn-UG"
   },
   {
+    "name": "Nyasa Tonga",
+    "symbol": "tog"
+  },
+  {
+    "name": "Nyoro",
+    "symbol": "nyo"
+  },
+  {
+    "name": "Nzima",
+    "symbol": "nzi"
+  },
+  {
+    "name": "N’Ko",
+    "symbol": "nqo"
+  },
+  {
+    "name": "N’Ko (Guinea)",
+    "symbol": "nqo-GN"
+  },
+  {
+    "name": "Occitan",
+    "symbol": "oc"
+  },
+  {
+    "name": "Occitan (France)",
+    "symbol": "oc-FR"
+  },
+  {
     "name": "Odia",
     "symbol": "or"
   },
   {
     "name": "Odia (India)",
     "symbol": "or-IN"
+  },
+  {
+    "name": "Ojibwa",
+    "symbol": "oj"
+  },
+  {
+    "name": "Old English",
+    "symbol": "ang"
+  },
+  {
+    "name": "Old French",
+    "symbol": "fro"
+  },
+  {
+    "name": "Old High German",
+    "symbol": "goh"
+  },
+  {
+    "name": "Old Irish",
+    "symbol": "sga"
+  },
+  {
+    "name": "Old Norse",
+    "symbol": "non"
+  },
+  {
+    "name": "Old Persian",
+    "symbol": "peo"
+  },
+  {
+    "name": "Old Provençal",
+    "symbol": "pro"
   },
   {
     "name": "Oromo",
@@ -2180,6 +3448,10 @@
     "symbol": "om-KE"
   },
   {
+    "name": "Osage",
+    "symbol": "osa"
+  },
+  {
     "name": "Ossetic",
     "symbol": "os"
   },
@@ -2192,12 +3464,52 @@
     "symbol": "os-RU"
   },
   {
+    "name": "Ottoman Turkish",
+    "symbol": "ota"
+  },
+  {
+    "name": "Pahlavi",
+    "symbol": "pal"
+  },
+  {
+    "name": "Palatine German",
+    "symbol": "pfl"
+  },
+  {
+    "name": "Palauan",
+    "symbol": "pau"
+  },
+  {
+    "name": "Pali",
+    "symbol": "pi"
+  },
+  {
+    "name": "Pampanga",
+    "symbol": "pam"
+  },
+  {
+    "name": "Pangasinan",
+    "symbol": "pag"
+  },
+  {
+    "name": "Papiamento",
+    "symbol": "pap"
+  },
+  {
     "name": "Pashto",
     "symbol": "ps"
   },
   {
     "name": "Pashto (Afghanistan)",
     "symbol": "ps-AF"
+  },
+  {
+    "name": "Pashto (Pakistan)",
+    "symbol": "ps-PK"
+  },
+  {
+    "name": "Pennsylvania German",
+    "symbol": "pdc"
   },
   {
     "name": "Persian",
@@ -2212,12 +3524,36 @@
     "symbol": "fa-IR"
   },
   {
+    "name": "Phoenician",
+    "symbol": "phn"
+  },
+  {
+    "name": "Picard",
+    "symbol": "pcd"
+  },
+  {
+    "name": "Piedmontese",
+    "symbol": "pms"
+  },
+  {
+    "name": "Plautdietsch",
+    "symbol": "pdt"
+  },
+  {
+    "name": "Pohnpeian",
+    "symbol": "pon"
+  },
+  {
     "name": "Polish",
     "symbol": "pl"
   },
   {
     "name": "Polish (Poland)",
     "symbol": "pl-PL"
+  },
+  {
+    "name": "Pontic",
+    "symbol": "pnt"
   },
   {
     "name": "Portuguese",
@@ -2252,7 +3588,7 @@
     "symbol": "pt-LU"
   },
   {
-    "name": "Portuguese (Macau)",
+    "name": "Portuguese (Macao)",
     "symbol": "pt-MO"
   },
   {
@@ -2264,32 +3600,40 @@
     "symbol": "pt-PT"
   },
   {
-    "name": "Portuguese (São Tomé & Príncipe)",
-    "symbol": "pt-ST"
-  },
-  {
     "name": "Portuguese (Switzerland)",
     "symbol": "pt-CH"
+  },
+  {
+    "name": "Portuguese (São Tomé & Príncipe)",
+    "symbol": "pt-ST"
   },
   {
     "name": "Portuguese (Timor-Leste)",
     "symbol": "pt-TL"
   },
   {
+    "name": "Prussian",
+    "symbol": "prg"
+  },
+  {
     "name": "Punjabi",
     "symbol": "pa"
   },
   {
-    "name": "Punjabi (Arabic)",
+    "name": "Punjabi (Gurmukhi)",
+    "symbol": "pa-Guru"
+  },
+  {
+    "name": "Punjabi (Gurmukhi, India)",
+    "symbol": "pa-Guru-IN"
+  },
+  {
+    "name": "Punjabi (Naskh)",
     "symbol": "pa-Arab"
   },
   {
-    "name": "Punjabi (Arabic, Pakistan)",
+    "name": "Punjabi (Naskh, Pakistan)",
     "symbol": "pa-Arab-PK"
-  },
-  {
-    "name": "Punjabi (India)",
-    "symbol": "pa-IN"
   },
   {
     "name": "Quechua",
@@ -2306,6 +3650,26 @@
   {
     "name": "Quechua (Peru)",
     "symbol": "qu-PE"
+  },
+  {
+    "name": "Rajasthani",
+    "symbol": "raj"
+  },
+  {
+    "name": "Rapanui",
+    "symbol": "rap"
+  },
+  {
+    "name": "Rarotongan",
+    "symbol": "rar"
+  },
+  {
+    "name": "Riffian",
+    "symbol": "rif"
+  },
+  {
+    "name": "Romagnol",
+    "symbol": "rgn"
   },
   {
     "name": "Romanian",
@@ -2328,12 +3692,24 @@
     "symbol": "rm-CH"
   },
   {
+    "name": "Romany",
+    "symbol": "rom"
+  },
+  {
     "name": "Rombo",
     "symbol": "rof"
   },
   {
     "name": "Rombo (Tanzania)",
     "symbol": "rof-TZ"
+  },
+  {
+    "name": "Rotuman",
+    "symbol": "rtm"
+  },
+  {
+    "name": "Roviana",
+    "symbol": "rug"
   },
   {
     "name": "Rundi",
@@ -2372,12 +3748,20 @@
     "symbol": "ru-UA"
   },
   {
+    "name": "Rusyn",
+    "symbol": "rue"
+  },
+  {
     "name": "Rwa",
     "symbol": "rwk"
   },
   {
     "name": "Rwa (Tanzania)",
     "symbol": "rwk-TZ"
+  },
+  {
+    "name": "Saho",
+    "symbol": "ssy"
   },
   {
     "name": "Sakha",
@@ -2388,12 +3772,28 @@
     "symbol": "sah-RU"
   },
   {
+    "name": "Samaritan Aramaic",
+    "symbol": "sam"
+  },
+  {
     "name": "Samburu",
     "symbol": "saq"
   },
   {
     "name": "Samburu (Kenya)",
     "symbol": "saq-KE"
+  },
+  {
+    "name": "Samoan",
+    "symbol": "sm"
+  },
+  {
+    "name": "Samogitian",
+    "symbol": "sgs"
+  },
+  {
+    "name": "Sandawe",
+    "symbol": "sad"
   },
   {
     "name": "Sango",
@@ -2412,12 +3812,76 @@
     "symbol": "sbp-TZ"
   },
   {
+    "name": "Sanskrit",
+    "symbol": "sa"
+  },
+  {
+    "name": "Sanskrit (India)",
+    "symbol": "sa-IN"
+  },
+  {
+    "name": "Santali",
+    "symbol": "sat"
+  },
+  {
+    "name": "Santali (Devanagari)",
+    "symbol": "sat-Deva"
+  },
+  {
+    "name": "Santali (Devanagari, India)",
+    "symbol": "sat-Deva-IN"
+  },
+  {
+    "name": "Santali (Ol Chiki)",
+    "symbol": "sat-Olck"
+  },
+  {
+    "name": "Santali (Ol Chiki, India)",
+    "symbol": "sat-Olck-IN"
+  },
+  {
+    "name": "Sardinian",
+    "symbol": "sc"
+  },
+  {
+    "name": "Sardinian (Italy)",
+    "symbol": "sc-IT"
+  },
+  {
+    "name": "Sasak",
+    "symbol": "sas"
+  },
+  {
+    "name": "Sassarese Sardinian",
+    "symbol": "sdc"
+  },
+  {
+    "name": "Saterland Frisian",
+    "symbol": "stq"
+  },
+  {
+    "name": "Saurashtra",
+    "symbol": "saz"
+  },
+  {
+    "name": "Scots",
+    "symbol": "sco"
+  },
+  {
     "name": "Scottish Gaelic",
     "symbol": "gd"
   },
   {
     "name": "Scottish Gaelic (United Kingdom)",
     "symbol": "gd-GB"
+  },
+  {
+    "name": "Selayar",
+    "symbol": "sly"
+  },
+  {
+    "name": "Selkup",
+    "symbol": "sel"
   },
   {
     "name": "Sena",
@@ -2428,16 +3892,32 @@
     "symbol": "seh-MZ"
   },
   {
+    "name": "Seneca",
+    "symbol": "see"
+  },
+  {
     "name": "Serbian",
     "symbol": "sr"
   },
   {
-    "name": "Serbian (Bosnia & Herzegovina)",
-    "symbol": "sr-BA"
+    "name": "Serbian (Cyrillic)",
+    "symbol": "sr-Cyrl"
   },
   {
-    "name": "Serbian (Kosovo)",
-    "symbol": "sr-XK"
+    "name": "Serbian (Cyrillic, Bosnia & Herzegovina)",
+    "symbol": "sr-Cyrl-BA"
+  },
+  {
+    "name": "Serbian (Cyrillic, Kosovo)",
+    "symbol": "sr-Cyrl-XK"
+  },
+  {
+    "name": "Serbian (Cyrillic, Montenegro)",
+    "symbol": "sr-Cyrl-ME"
+  },
+  {
+    "name": "Serbian (Cyrillic, Serbia)",
+    "symbol": "sr-Cyrl-RS"
   },
   {
     "name": "Serbian (Latin)",
@@ -2460,12 +3940,12 @@
     "symbol": "sr-Latn-RS"
   },
   {
-    "name": "Serbian (Montenegro)",
-    "symbol": "sr-ME"
+    "name": "Serer",
+    "symbol": "srr"
   },
   {
-    "name": "Serbian (Serbia)",
-    "symbol": "sr-RS"
+    "name": "Seri",
+    "symbol": "sei"
   },
   {
     "name": "Shambala",
@@ -2474,6 +3954,14 @@
   {
     "name": "Shambala (Tanzania)",
     "symbol": "ksb-TZ"
+  },
+  {
+    "name": "Shan",
+    "symbol": "shn"
+  },
+  {
+    "name": "Shanghainese",
+    "symbol": "wuu"
   },
   {
     "name": "Shona",
@@ -2492,12 +3980,56 @@
     "symbol": "ii-CN"
   },
   {
+    "name": "Sicilian",
+    "symbol": "scn"
+  },
+  {
+    "name": "Sicilian (Italy)",
+    "symbol": "scn-IT"
+  },
+  {
+    "name": "Sidamo",
+    "symbol": "sid"
+  },
+  {
+    "name": "Siksika",
+    "symbol": "bla"
+  },
+  {
+    "name": "Silesian",
+    "symbol": "szl"
+  },
+  {
+    "name": "Sindhi",
+    "symbol": "sd"
+  },
+  {
+    "name": "Sindhi (Devanagari)",
+    "symbol": "sd-Deva"
+  },
+  {
+    "name": "Sindhi (Devanagari, India)",
+    "symbol": "sd-Deva-IN"
+  },
+  {
+    "name": "Sindhi (Pakistan)",
+    "symbol": "sd-PK"
+  },
+  {
     "name": "Sinhala",
     "symbol": "si"
   },
   {
     "name": "Sinhala (Sri Lanka)",
     "symbol": "si-LK"
+  },
+  {
+    "name": "Skolt Sami",
+    "symbol": "sms"
+  },
+  {
+    "name": "Slave",
+    "symbol": "den"
   },
   {
     "name": "Slovak",
@@ -2524,6 +4056,10 @@
     "symbol": "xog-UG"
   },
   {
+    "name": "Sogdien",
+    "symbol": "sog"
+  },
+  {
     "name": "Somali",
     "symbol": "so"
   },
@@ -2544,12 +4080,44 @@
     "symbol": "so-SO"
   },
   {
-    "name": "Spanish",
-    "symbol": "es"
+    "name": "Soninke",
+    "symbol": "snk"
   },
   {
-    "name": "Spanish (Anguilla)",
-    "symbol": "es-AI"
+    "name": "South Ndebele",
+    "symbol": "nr"
+  },
+  {
+    "name": "South Ndebele (South Africa)",
+    "symbol": "nr-ZA"
+  },
+  {
+    "name": "Southern Altai",
+    "symbol": "alt"
+  },
+  {
+    "name": "Southern Kurdish",
+    "symbol": "sdh"
+  },
+  {
+    "name": "Southern Sami",
+    "symbol": "sma"
+  },
+  {
+    "name": "Southern Sotho",
+    "symbol": "st"
+  },
+  {
+    "name": "Southern Sotho (Lesotho)",
+    "symbol": "st-LS"
+  },
+  {
+    "name": "Southern Sotho (South Africa)",
+    "symbol": "st-ZA"
+  },
+  {
+    "name": "Spanish",
+    "symbol": "es"
   },
   {
     "name": "Spanish (Antigua & Barbuda)",
@@ -2558,10 +4126,6 @@
   {
     "name": "Spanish (Argentina)",
     "symbol": "es-AR"
-  },
-  {
-    "name": "Spanish (Aruba)",
-    "symbol": "es-AW"
   },
   {
     "name": "Spanish (Bahamas)",
@@ -2652,24 +4216,8 @@
     "symbol": "es-GQ"
   },
   {
-    "name": "Spanish (Falkland Islands)",
-    "symbol": "es-FK"
-  },
-  {
-    "name": "Spanish (French Guiana)",
-    "symbol": "es-GF"
-  },
-  {
-    "name": "Spanish (Greenland)",
-    "symbol": "es-GL"
-  },
-  {
     "name": "Spanish (Grenada)",
     "symbol": "es-GD"
-  },
-  {
-    "name": "Spanish (Guadeloupe)",
-    "symbol": "es-GP"
   },
   {
     "name": "Spanish (Guatemala)",
@@ -2692,16 +4240,8 @@
     "symbol": "es-419"
   },
   {
-    "name": "Spanish (Martinique)",
-    "symbol": "es-MQ"
-  },
-  {
     "name": "Spanish (Mexico)",
     "symbol": "es-MX"
-  },
-  {
-    "name": "Spanish (Montserrat)",
-    "symbol": "es-MS"
   },
   {
     "name": "Spanish (Nicaragua)",
@@ -2728,16 +4268,8 @@
     "symbol": "es-PR"
   },
   {
-    "name": "Spanish (Sint Maarten)",
-    "symbol": "es-SX"
-  },
-  {
     "name": "Spanish (Spain)",
     "symbol": "es-ES"
-  },
-  {
-    "name": "Spanish (St. Barthélemy)",
-    "symbol": "es-BL"
   },
   {
     "name": "Spanish (St. Kitts & Nevis)",
@@ -2748,20 +4280,8 @@
     "symbol": "es-LC"
   },
   {
-    "name": "Spanish (St. Martin)",
-    "symbol": "es-MF"
-  },
-  {
-    "name": "Spanish (St. Pierre & Miquelon)",
-    "symbol": "es-PM"
-  },
-  {
     "name": "Spanish (St. Vincent & Grenadines)",
     "symbol": "es-VC"
-  },
-  {
-    "name": "Spanish (Suriname)",
-    "symbol": "es-SR"
   },
   {
     "name": "Spanish (Trinidad & Tobago)",
@@ -2788,12 +4308,32 @@
     "symbol": "es-VE"
   },
   {
+    "name": "Sranan Tongo",
+    "symbol": "srn"
+  },
+  {
     "name": "Standard Moroccan Tamazight",
     "symbol": "zgh"
   },
   {
     "name": "Standard Moroccan Tamazight (Morocco)",
     "symbol": "zgh-MA"
+  },
+  {
+    "name": "Sukuma",
+    "symbol": "suk"
+  },
+  {
+    "name": "Sumerian",
+    "symbol": "sux"
+  },
+  {
+    "name": "Sundanese",
+    "symbol": "su"
+  },
+  {
+    "name": "Susu",
+    "symbol": "sus"
   },
   {
     "name": "Swahili",
@@ -2816,12 +4356,20 @@
     "symbol": "sw-UG"
   },
   {
-    "name": "Swedish",
-    "symbol": "sv"
+    "name": "Swati",
+    "symbol": "ss"
   },
   {
-    "name": "Swedish (Åland Islands)",
-    "symbol": "sv-AX"
+    "name": "Swati (Eswatini)",
+    "symbol": "ss-SZ"
+  },
+  {
+    "name": "Swati (South Africa)",
+    "symbol": "ss-ZA"
+  },
+  {
+    "name": "Swedish",
+    "symbol": "sv"
   },
   {
     "name": "Swedish (Finland)",
@@ -2830,6 +4378,10 @@
   {
     "name": "Swedish (Sweden)",
     "symbol": "sv-SE"
+  },
+  {
+    "name": "Swedish (Åland Islands)",
+    "symbol": "sv-AX"
   },
   {
     "name": "Swiss German",
@@ -2848,12 +4400,28 @@
     "symbol": "gsw-CH"
   },
   {
+    "name": "Syriac",
+    "symbol": "syr"
+  },
+  {
+    "name": "Syriac (Iraq)",
+    "symbol": "syr-IQ"
+  },
+  {
+    "name": "Syriac (Syria)",
+    "symbol": "syr-SY"
+  },
+  {
     "name": "Tachelhit",
     "symbol": "shi"
   },
   {
-    "name": "Tachelhit (Morocco)",
-    "symbol": "shi-MA"
+    "name": "Tachelhit (Latin)",
+    "symbol": "shi-Latn"
+  },
+  {
+    "name": "Tachelhit (Latin, Morocco)",
+    "symbol": "shi-Latn-MA"
   },
   {
     "name": "Tachelhit (Tifinagh)",
@@ -2862,6 +4430,14 @@
   {
     "name": "Tachelhit (Tifinagh, Morocco)",
     "symbol": "shi-Tfng-MA"
+  },
+  {
+    "name": "Tagalog",
+    "symbol": "tl"
+  },
+  {
+    "name": "Tahitian",
+    "symbol": "ty"
   },
   {
     "name": "Taita",
@@ -2878,6 +4454,14 @@
   {
     "name": "Tajik (Tajikistan)",
     "symbol": "tg-TJ"
+  },
+  {
+    "name": "Talysh",
+    "symbol": "tly"
+  },
+  {
+    "name": "Tamashek",
+    "symbol": "tmh"
   },
   {
     "name": "Tamil",
@@ -2898,6 +4482,14 @@
   {
     "name": "Tamil (Sri Lanka)",
     "symbol": "ta-LK"
+  },
+  {
+    "name": "Taroko",
+    "symbol": "trv"
+  },
+  {
+    "name": "Taroko (Taiwan)",
+    "symbol": "trv-TW"
   },
   {
     "name": "Tasawaq",
@@ -2924,6 +4516,10 @@
     "symbol": "te-IN"
   },
   {
+    "name": "Tereno",
+    "symbol": "ter"
+  },
+  {
     "name": "Teso",
     "symbol": "teo"
   },
@@ -2934,6 +4530,10 @@
   {
     "name": "Teso (Uganda)",
     "symbol": "teo-UG"
+  },
+  {
+    "name": "Tetum",
+    "symbol": "tet"
   },
   {
     "name": "Thai",
@@ -2956,6 +4556,14 @@
     "symbol": "bo-IN"
   },
   {
+    "name": "Tigre",
+    "symbol": "tig"
+  },
+  {
+    "name": "Tigre (Eritrea)",
+    "symbol": "tig-ER"
+  },
+  {
     "name": "Tigrinya",
     "symbol": "ti"
   },
@@ -2968,12 +4576,80 @@
     "symbol": "ti-ET"
   },
   {
+    "name": "Timne",
+    "symbol": "tem"
+  },
+  {
+    "name": "Tiv",
+    "symbol": "tiv"
+  },
+  {
+    "name": "Tlingit",
+    "symbol": "tli"
+  },
+  {
+    "name": "Tok Pisin",
+    "symbol": "tpi"
+  },
+  {
+    "name": "Tokelau",
+    "symbol": "tkl"
+  },
+  {
     "name": "Tongan",
     "symbol": "to"
   },
   {
     "name": "Tongan (Tonga)",
     "symbol": "to-TO"
+  },
+  {
+    "name": "Tornedalen Finnish",
+    "symbol": "fit"
+  },
+  {
+    "name": "Tsakhur",
+    "symbol": "tkr"
+  },
+  {
+    "name": "Tsakonian",
+    "symbol": "tsd"
+  },
+  {
+    "name": "Tsimshian",
+    "symbol": "tsi"
+  },
+  {
+    "name": "Tsonga",
+    "symbol": "ts"
+  },
+  {
+    "name": "Tsonga (South Africa)",
+    "symbol": "ts-ZA"
+  },
+  {
+    "name": "Tswana",
+    "symbol": "tn"
+  },
+  {
+    "name": "Tswana (Botswana)",
+    "symbol": "tn-BW"
+  },
+  {
+    "name": "Tswana (South Africa)",
+    "symbol": "tn-ZA"
+  },
+  {
+    "name": "Tulu",
+    "symbol": "tcy"
+  },
+  {
+    "name": "Tumbuka",
+    "symbol": "tum"
+  },
+  {
+    "name": "Tunisian Arabic",
+    "symbol": "aeb"
   },
   {
     "name": "Turkish",
@@ -2996,12 +4672,52 @@
     "symbol": "tk-TM"
   },
   {
+    "name": "Turoyo",
+    "symbol": "tru"
+  },
+  {
+    "name": "Tuvalu",
+    "symbol": "tvl"
+  },
+  {
+    "name": "Tuvinian",
+    "symbol": "tyv"
+  },
+  {
+    "name": "Twi",
+    "symbol": "tw"
+  },
+  {
+    "name": "Tyap",
+    "symbol": "kcg"
+  },
+  {
+    "name": "Tyap (Nigeria)",
+    "symbol": "kcg-NG"
+  },
+  {
+    "name": "Udmurt",
+    "symbol": "udm"
+  },
+  {
+    "name": "Ugaritic",
+    "symbol": "uga"
+  },
+  {
     "name": "Ukrainian",
     "symbol": "uk"
   },
   {
     "name": "Ukrainian (Ukraine)",
     "symbol": "uk-UA"
+  },
+  {
+    "name": "Umbundu",
+    "symbol": "umb"
+  },
+  {
+    "name": "Unknown language",
+    "symbol": "und"
   },
   {
     "name": "Upper Sorbian",
@@ -3016,12 +4732,20 @@
     "symbol": "ur"
   },
   {
-    "name": "Urdu (India)",
-    "symbol": "ur-IN"
+    "name": "Urdu (Naskh)",
+    "symbol": "ur-Arab"
   },
   {
-    "name": "Urdu (Pakistan)",
-    "symbol": "ur-PK"
+    "name": "Urdu (Naskh, India)",
+    "symbol": "ur-Arab-IN"
+  },
+  {
+    "name": "Urdu (Naskh, Pakistan)",
+    "symbol": "ur-Arab-PK"
+  },
+  {
+    "name": "Urdu (Nastaliq)",
+    "symbol": "ur-Aran"
   },
   {
     "name": "Uyghur",
@@ -3044,16 +4768,20 @@
     "symbol": "uz-Arab-AF"
   },
   {
+    "name": "Uzbek (Cyrillic)",
+    "symbol": "uz-Cyrl"
+  },
+  {
+    "name": "Uzbek (Cyrillic, Uzbekistan)",
+    "symbol": "uz-Cyrl-UZ"
+  },
+  {
     "name": "Uzbek (Latin)",
     "symbol": "uz-Latn"
   },
   {
     "name": "Uzbek (Latin, Uzbekistan)",
     "symbol": "uz-Latn-UZ"
-  },
-  {
-    "name": "Uzbek (Uzbekistan)",
-    "symbol": "uz-UZ"
   },
   {
     "name": "Vai",
@@ -3068,8 +4796,28 @@
     "symbol": "vai-Latn-LR"
   },
   {
-    "name": "Vai (Liberia)",
-    "symbol": "vai-LR"
+    "name": "Vai (Vai)",
+    "symbol": "vai-Vaii"
+  },
+  {
+    "name": "Vai (Vai, Liberia)",
+    "symbol": "vai-Vaii-LR"
+  },
+  {
+    "name": "Venda",
+    "symbol": "ve"
+  },
+  {
+    "name": "Venda (South Africa)",
+    "symbol": "ve-ZA"
+  },
+  {
+    "name": "Venetian",
+    "symbol": "vec"
+  },
+  {
+    "name": "Veps",
+    "symbol": "vep"
   },
   {
     "name": "Vietnamese",
@@ -3080,12 +4828,32 @@
     "symbol": "vi-VN"
   },
   {
+    "name": "Volapük",
+    "symbol": "vo"
+  },
+  {
+    "name": "Votic",
+    "symbol": "vot"
+  },
+  {
     "name": "Vunjo",
     "symbol": "vun"
   },
   {
     "name": "Vunjo (Tanzania)",
     "symbol": "vun-TZ"
+  },
+  {
+    "name": "Võro",
+    "symbol": "vro"
+  },
+  {
+    "name": "Walloon",
+    "symbol": "wa"
+  },
+  {
+    "name": "Walloon (Belgium)",
+    "symbol": "wa-BE"
   },
   {
     "name": "Walser",
@@ -3096,12 +4864,36 @@
     "symbol": "wae-CH"
   },
   {
+    "name": "Waray",
+    "symbol": "war"
+  },
+  {
+    "name": "Warlpiri",
+    "symbol": "wbp"
+  },
+  {
+    "name": "Washo",
+    "symbol": "was"
+  },
+  {
+    "name": "Wayuu",
+    "symbol": "guc"
+  },
+  {
     "name": "Welsh",
     "symbol": "cy"
   },
   {
     "name": "Welsh (United Kingdom)",
     "symbol": "cy-GB"
+  },
+  {
+    "name": "West Flemish",
+    "symbol": "vls"
+  },
+  {
+    "name": "Western Balochi",
+    "symbol": "bgn"
   },
   {
     "name": "Western Frisian",
@@ -3112,6 +4904,18 @@
     "symbol": "fy-NL"
   },
   {
+    "name": "Western Mari",
+    "symbol": "mrj"
+  },
+  {
+    "name": "Wolaytta",
+    "symbol": "wal"
+  },
+  {
+    "name": "Wolaytta (Ethiopia)",
+    "symbol": "wal-ET"
+  },
+  {
     "name": "Wolof",
     "symbol": "wo"
   },
@@ -3120,12 +4924,36 @@
     "symbol": "wo-SN"
   },
   {
+    "name": "Xhosa",
+    "symbol": "xh"
+  },
+  {
+    "name": "Xhosa (South Africa)",
+    "symbol": "xh-ZA"
+  },
+  {
+    "name": "Xiang Chinese",
+    "symbol": "hsn"
+  },
+  {
     "name": "Yangben",
     "symbol": "yav"
   },
   {
     "name": "Yangben (Cameroon)",
     "symbol": "yav-CM"
+  },
+  {
+    "name": "Yao",
+    "symbol": "yao"
+  },
+  {
+    "name": "Yapese",
+    "symbol": "yap"
+  },
+  {
+    "name": "Yemba",
+    "symbol": "ybb"
   },
   {
     "name": "Yiddish",
@@ -3148,6 +4976,10 @@
     "symbol": "yo-NG"
   },
   {
+    "name": "Zapotec",
+    "symbol": "zap"
+  },
+  {
     "name": "Zarma",
     "symbol": "dje"
   },
@@ -3156,11 +4988,35 @@
     "symbol": "dje-NE"
   },
   {
+    "name": "Zaza",
+    "symbol": "zza"
+  },
+  {
+    "name": "Zeelandic",
+    "symbol": "zea"
+  },
+  {
+    "name": "Zenaga",
+    "symbol": "zen"
+  },
+  {
+    "name": "Zhuang",
+    "symbol": "za"
+  },
+  {
+    "name": "Zoroastrian Dari",
+    "symbol": "gbz"
+  },
+  {
     "name": "Zulu",
     "symbol": "zu"
   },
   {
     "name": "Zulu (South Africa)",
     "symbol": "zu-ZA"
+  },
+  {
+    "name": "Zuni",
+    "symbol": "zun"
   }
 ]
