@@ -52,6 +52,10 @@
     "symbol": "ain"
   },
   {
+    "name": "Ainu (Japan)",
+    "symbol": "ain-JP"
+  },
+  {
     "name": "Akan",
     "symbol": "ak"
   },
@@ -286,6 +290,18 @@
   {
     "name": "Assamese (India)",
     "symbol": "as-IN"
+  },
+  {
+    "name": "Assyrian",
+    "symbol": "syr"
+  },
+  {
+    "name": "Assyrian (Iraq)",
+    "symbol": "syr-IQ"
+  },
+  {
+    "name": "Assyrian (Syria)",
+    "symbol": "syr-SY"
   },
   {
     "name": "Asturian",
@@ -894,6 +910,10 @@
   {
     "name": "Dogri",
     "symbol": "doi"
+  },
+  {
+    "name": "Dogri (India)",
+    "symbol": "doi-IN"
   },
   {
     "name": "Dogrib",
@@ -1836,59 +1856,111 @@
     "symbol": "fur-IT"
   },
   {
-    "name": "Fulah",
+    "name": "Fula",
     "symbol": "ff"
   },
   {
-    "name": "Fulah (Latin)",
+    "name": "Fula (Adlam)",
+    "symbol": "ff-Adlm"
+  },
+  {
+    "name": "Fula (Adlam, Burkina Faso)",
+    "symbol": "ff-Adlm-BF"
+  },
+  {
+    "name": "Fula (Adlam, Cameroon)",
+    "symbol": "ff-Adlm-CM"
+  },
+  {
+    "name": "Fula (Adlam, Gambia)",
+    "symbol": "ff-Adlm-GM"
+  },
+  {
+    "name": "Fula (Adlam, Ghana)",
+    "symbol": "ff-Adlm-GH"
+  },
+  {
+    "name": "Fula (Adlam, Guinea)",
+    "symbol": "ff-Adlm-GN"
+  },
+  {
+    "name": "Fula (Adlam, Guinea-Bissau)",
+    "symbol": "ff-Adlm-GW"
+  },
+  {
+    "name": "Fula (Adlam, Liberia)",
+    "symbol": "ff-Adlm-LR"
+  },
+  {
+    "name": "Fula (Adlam, Mauritania)",
+    "symbol": "ff-Adlm-MR"
+  },
+  {
+    "name": "Fula (Adlam, Niger)",
+    "symbol": "ff-Adlm-NE"
+  },
+  {
+    "name": "Fula (Adlam, Nigeria)",
+    "symbol": "ff-Adlm-NG"
+  },
+  {
+    "name": "Fula (Adlam, Senegal)",
+    "symbol": "ff-Adlm-SN"
+  },
+  {
+    "name": "Fula (Adlam, Sierra Leone)",
+    "symbol": "ff-Adlm-SL"
+  },
+  {
+    "name": "Fula (Latin)",
     "symbol": "ff-Latn"
   },
   {
-    "name": "Fulah (Latin, Burkina Faso)",
+    "name": "Fula (Latin, Burkina Faso)",
     "symbol": "ff-Latn-BF"
   },
   {
-    "name": "Fulah (Latin, Cameroon)",
+    "name": "Fula (Latin, Cameroon)",
     "symbol": "ff-Latn-CM"
   },
   {
-    "name": "Fulah (Latin, Gambia)",
+    "name": "Fula (Latin, Gambia)",
     "symbol": "ff-Latn-GM"
   },
   {
-    "name": "Fulah (Latin, Ghana)",
+    "name": "Fula (Latin, Ghana)",
     "symbol": "ff-Latn-GH"
   },
   {
-    "name": "Fulah (Latin, Guinea)",
+    "name": "Fula (Latin, Guinea)",
     "symbol": "ff-Latn-GN"
   },
   {
-    "name": "Fulah (Latin, Guinea-Bissau)",
+    "name": "Fula (Latin, Guinea-Bissau)",
     "symbol": "ff-Latn-GW"
   },
   {
-    "name": "Fulah (Latin, Liberia)",
+    "name": "Fula (Latin, Liberia)",
     "symbol": "ff-Latn-LR"
   },
   {
-    "name": "Fulah (Latin, Mauritania)",
+    "name": "Fula (Latin, Mauritania)",
     "symbol": "ff-Latn-MR"
   },
   {
-    "name": "Fulah (Latin, Niger)",
+    "name": "Fula (Latin, Niger)",
     "symbol": "ff-Latn-NE"
   },
   {
-    "name": "Fulah (Latin, Nigeria)",
+    "name": "Fula (Latin, Nigeria)",
     "symbol": "ff-Latn-NG"
   },
   {
-    "name": "Fulah (Latin, Senegal)",
+    "name": "Fula (Latin, Senegal)",
     "symbol": "ff-Latn-SN"
   },
   {
-    "name": "Fulah (Latin, Sierra Leone)",
+    "name": "Fula (Latin, Sierra Leone)",
     "symbol": "ff-Latn-SL"
   },
   {
@@ -2880,6 +2952,10 @@
     "symbol": "mai"
   },
   {
+    "name": "Maithili (India)",
+    "symbol": "mai-IN"
+  },
+  {
     "name": "Makasar",
     "symbol": "mak"
   },
@@ -2926,6 +3002,10 @@
   {
     "name": "Malay (Brunei)",
     "symbol": "ms-BN"
+  },
+  {
+    "name": "Malay (Indonesia)",
+    "symbol": "ms-ID"
   },
   {
     "name": "Malay (Malaysia)",
@@ -2990,14 +3070,6 @@
   {
     "name": "Manx (Isle of Man)",
     "symbol": "gv-IM"
-  },
-  {
-    "name": "Maori",
-    "symbol": "mi"
-  },
-  {
-    "name": "Maori (New Zealand)",
-    "symbol": "mi-NZ"
   },
   {
     "name": "Mapuche",
@@ -3184,6 +3256,14 @@
     "symbol": "mye"
   },
   {
+    "name": "Māori",
+    "symbol": "mi"
+  },
+  {
+    "name": "Māori (New Zealand)",
+    "symbol": "mi-NZ"
+  },
+  {
     "name": "Nama",
     "symbol": "naq"
   },
@@ -3198,6 +3278,10 @@
   {
     "name": "Navajo",
     "symbol": "nv"
+  },
+  {
+    "name": "Navajo (United States)",
+    "symbol": "nv-US"
   },
   {
     "name": "Ndonga",
@@ -3250,6 +3334,14 @@
   {
     "name": "Nias",
     "symbol": "nia"
+  },
+  {
+    "name": "Nigerian Pidgin",
+    "symbol": "pcm"
+  },
+  {
+    "name": "Nigerian Pidgin (Nigeria)",
+    "symbol": "pcm-NG"
   },
   {
     "name": "Niuean",
@@ -3668,6 +3760,22 @@
     "symbol": "rif"
   },
   {
+    "name": "Rohingya",
+    "symbol": "rhg"
+  },
+  {
+    "name": "Rohingya (Hanifi Rohingya)",
+    "symbol": "rhg-Rohg"
+  },
+  {
+    "name": "Rohingya (Hanifi Rohingya, Bangladesh)",
+    "symbol": "rhg-Rohg-BD"
+  },
+  {
+    "name": "Rohingya (Hanifi Rohingya, Myanmar [Burma])",
+    "symbol": "rhg-Rohg-MM"
+  },
+  {
     "name": "Romagnol",
     "symbol": "rgn"
   },
@@ -3992,7 +4100,7 @@
     "symbol": "sid"
   },
   {
-    "name": "Siksika",
+    "name": "Siksiká",
     "symbol": "bla"
   },
   {
@@ -4004,16 +4112,20 @@
     "symbol": "sd"
   },
   {
+    "name": "Sindhi (Arabic)",
+    "symbol": "sd-Arab"
+  },
+  {
+    "name": "Sindhi (Arabic, Pakistan)",
+    "symbol": "sd-Arab-PK"
+  },
+  {
     "name": "Sindhi (Devanagari)",
     "symbol": "sd-Deva"
   },
   {
     "name": "Sindhi (Devanagari, India)",
     "symbol": "sd-Deva-IN"
-  },
-  {
-    "name": "Sindhi (Pakistan)",
-    "symbol": "sd-PK"
   },
   {
     "name": "Sinhala",
@@ -4248,6 +4360,10 @@
     "symbol": "es-NI"
   },
   {
+    "name": "Spanish (North America)",
+    "symbol": "es-003"
+  },
+  {
     "name": "Spanish (Panama)",
     "symbol": "es-PA"
   },
@@ -4332,6 +4448,14 @@
     "symbol": "su"
   },
   {
+    "name": "Sundanese (Latin)",
+    "symbol": "su-Latn"
+  },
+  {
+    "name": "Sundanese (Latin, Indonesia)",
+    "symbol": "su-Latn-ID"
+  },
+  {
     "name": "Susu",
     "symbol": "sus"
   },
@@ -4400,18 +4524,6 @@
     "symbol": "gsw-CH"
   },
   {
-    "name": "Syriac",
-    "symbol": "syr"
-  },
-  {
-    "name": "Syriac (Iraq)",
-    "symbol": "syr-IQ"
-  },
-  {
-    "name": "Syriac (Syria)",
-    "symbol": "syr-SY"
-  },
-  {
     "name": "Tachelhit",
     "symbol": "shi"
   },
@@ -4430,10 +4542,6 @@
   {
     "name": "Tachelhit (Tifinagh, Morocco)",
     "symbol": "shi-Tfng-MA"
-  },
-  {
-    "name": "Tagalog",
-    "symbol": "tl"
   },
   {
     "name": "Tahitian",
